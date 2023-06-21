@@ -1,6 +1,6 @@
-Persian,Pezhman,arezouhaye ghamgin,boy,
+persian,Pezhman,arezouhaye ghamgin,boy,
 
-Persian,Parand,navazesh, girl,
+persian,Parand,navazesh, girl,
 
-African,test,test meaning, boy,
+african,test,test meaning, boy,
 
