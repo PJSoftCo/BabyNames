@@ -399,3 +399,108 @@
 فارسی  ~ زین‌الدین (Zinaddin) ~ زینت و دین (Beauty and religion) ~ boy ~ 
 
 
+فارسی  ~ ناصر (Naser) ~ پشتیبان، مدافع (Supporter, defender) ~ boy ~ 
+
+فارسی  ~ نیما (Nima) ~ پیامبر (Prophet) ~ boy ~ 
+
+فارسی  ~ نوید (Navid) ~ خبر خوب (Good news) ~ boy ~ 
+
+فارسی  ~ هادی (Hadi) ~ راهنما (Guide) ~ boy ~ 
+
+فارسی  ~ هادیان (Hadian) ~ مسئول راهنمایی (Responsible for guidance) ~ boy ~ 
+
+فارسی  ~ هارون (Haroun) ~ نام یکی از پادشاهان فرعونی (Name of one of the Pharaohs) ~ boy ~ 
+
+فارسی  ~ هامون (Hamoon) ~ نام رودی در ایران (Name of a river in Iran) ~ boy ~ 
+
+فارسی  ~ هامید (Hamid) ~ بزرگوار، دارای همت (Noble, ambitious) ~ boy ~ 
+
+فارسی  ~ هانی (Hani) ~ خوش‌شانس (Lucky) ~ boy ~ 
+
+فارسی  ~ هدایت (Hedayat) ~ هدایت کننده (Guide) ~ boy ~ 
+
+فارسی  ~ همایون (Homa) ~ پرنده‌ای اسطوره‌ای (Mythical bird) ~ boy ~ 
+
+فارسی  ~ همایون (Homayoun) ~ خوش‌بخت و خوش‌شانس (Fortunate and lucky) ~ boy ~ 
+
+فارسی  ~ همایونشاه (Homayounshah) ~ پادشاه خوش‌شانس (Lucky king) ~ boy ~ 
+
+فارسی  ~ همام (Hemam) ~ پرخور، گله‌ور (Eater, grazer) ~ boy ~ 
+
+فارسی  ~ هوشنگ (Houshang) ~ دارای هوش (Intelligent) ~ boy ~ 
+
+فارسی  ~ هومان (Hooman) ~ دارای شادی و خوشحالی (Joyful and happy) ~ boy ~ 
+
+فارسی  ~ یاور (Yavar) ~ یاریکننده (Helper) ~ boy ~ 
+
+فارسی  ~ یزدان (Yazdan) ~ خدایی (Divine) ~ boy ~ 
+
+فارسی  ~ یوسف (Yousef) ~ نام یکی از پیامبران (Name of a prophet) ~ boy ~ 
+
+فارسی  ~ یونس (Younes) ~ نام یکی از پیامبران (Name of a prophet) ~ boy ~ 
+
+فارسی  ~ ابتهاج (Ebtihaj) ~ خوشحالی، شادی (Happiness, joy) ~ boy ~ 
+
+فارسی  ~ ابتسام (Ebtisam) ~ لبخند (Smile) ~ boy ~ 
+
+فارسی  ~ ابوذر (Abouzar) ~ نام یکی از یاران امام علی (Name of one of the companions of Imam Ali) ~ boy ~ 
+
+فارسی  ~ ابوالفضل (Abolfazl) ~ بزرگواری (Nobility) ~ boy ~ 
+
+فارسی  ~ ابوالقاسم (Abolghasem) ~ نام امام حسن عسکری (Name of Imam Hasan Askari) ~ boy ~ 
+
+فارسی  ~ ابوالفضل (Abolfazl) ~ بزرگواری (Nobility) ~ boy ~ 
+
+فارسی  ~ ابوالقاسم (Abolghasem) ~ نام امام حسن عسکری (Name of Imam Hasan Askari) ~ boy ~ 
+
+فارسی  ~ ابوالقاسم (Abolghasem) ~ نام امام حسن عسکری (Name of Imam Hasan Askari) ~ boy ~ 
+
+فارسی  ~ احسان (Ehsan) ~ محبت (Kindness) ~ boy ~ 
+
+فارسی  ~ احمد (Ahmad) ~ نام یکی از نامه‌های خداوند (Name of one of Allah's names) ~ boy ~ 
+
+فارسی  ~ ادریس (Idris) ~ نام یکی از پیامبران (Name of a prophet) ~ boy ~ 
+
+فارسی  ~ ادهم (Adham) ~ آدم بزرگ (Great man) ~ boy ~ 
+
+فارسی  ~ اردلان (Ardalan) ~ پاسدار از آتش (Guardian of fire) ~ boy ~ 
+
+فارسی  ~ ارژنگ (Arjang) ~ آتشین (Fiery) ~ boy ~ 
+
+فارسی  ~ ارسلان (Arsalan) ~ شیر (Lion) ~ boy ~ 
+
+فارسی  ~ ارش (Arash) ~ پرنده‌ای اسطوره‌ای (Mythical bird) ~ boy ~ 
+
+فارسی  ~ ارشام (Arsham) ~ دارای تاج و تخت (Wearing a crown and throne) ~ boy ~ 
+
+فارسی  ~ ارشاد (Ershad) ~ هدایت (Guidance) ~ boy ~ 
+
+فارسی  ~ ارشام (Arsham) ~ دارای تاج و تخت (Wearing a crown and throne) ~ boy ~ 
+
+فارسی  ~ ارشاد (Ershad) ~ هدایت (Guidance) ~ boy ~ 
+
+فارسی  ~ ارمان (Arman) ~ آرزو، خواسته (Desire, wish) ~ boy ~ 
+
+فارسی  ~ اژدر (Azhdar) ~ اژدها (Dragon) ~ boy ~ 
+
+فارسی  ~ اسد (Asad) ~ شیر (Lion) ~ boy ~ 
+
+فارسی  ~ اسدالله (Asadollah) ~ شیر خدا (Lion of God) ~ boy ~ 
+
+فارسی  ~ اسلام (Islam) ~ دین اسلام (Islam religion) ~ boy ~ 
+
+فارسی  ~ اسماعیل (Ismaeil) ~ نام یکی از پیامبران (Name of a prophet) ~ boy ~ 
+
+فارسی  ~ اشکان (Ashkan) ~ نام یکی از پادشاهان ایرانی (Name of one of the Iranian kings) ~ boy ~ 
+
+فارسی  ~ اشکبوس (Ashkboos) ~ راهنما (Guide) ~ boy ~ 
+
+فارسی  ~ اشکان (Ashkan) ~ نام یکی از پادشاهان ایرانی (Name of one of the Iranian kings) ~ boy ~ 
+
+فارسی  ~ اشکبوس (Ashkboos) ~ راهنما (Guide) ~ boy ~ 
+
+فارسی  ~ اشکان (Ashkan) ~ نام یکی از پادشاهان ایرانی (Name of one of the Iranian kings) ~ boy ~ 
+
+فارسی  ~ اشکبوس (Ashkboos) ~ راهنما (Guide) ~ boy ~ 
+
+
