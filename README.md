@@ -376,8 +376,6 @@
 
 فارسی  ~ روزبه (Ruzbeh) ~ دارای پیروزی (Victorious) ~ boy ~ 
 
-فارسی  ~ روزنامه (Ruzname) ~ روزنویس (Journalist) ~ boy ~ 
-
 فارسی  ~ روشان (Rowshan) ~ درخشان، روشن (Shining, bright) ~ boy ~ 
 
 فارسی  ~ روناک (Runak) ~ درخشان، روشن (Bright, radiant) ~ boy ~ 
