@@ -197,3 +197,204 @@
 فارسی  ~ نیمان (Nayman)~پر شور و هیجان (Energetic and passionate) ~ boy ~
 
 فارسی  ~ رادمان (Radman)~خداوندی، الهی (Divine, godly) ~ boy ~
+
+فارسی  ~ اردشیر (Ardeshir) ~ شیر آتشین (Fiery lion) ~ boy ~ 
+
+فارسی  ~ امین (Amin) ~ امانتدار، صادق (Trustworthy, honest) ~ boy ~ 
+
+فارسی  ~ باران (Baran) ~ باران، نعمت الهی (Rain, divine blessing) ~ boy ~ 
+
+فارسی  ~ پرهام (Parham) ~ پیامبر روحانی (Spiritual messenger) ~ boy ~ 
+
+فارسی  ~ تورج (Touraj) ~ شاهزاده زرین (Golden prince) ~ boy ~ 
+
+فارسی  ~ حامی (Hami) ~ دوست و یار (Friend and companion) ~ boy ~ 
+
+فارسی  ~ خسرو (Khosrow) ~ شاه (King) ~ boy ~ 
+
+فارسی  ~ دانیال (Daniel) ~ دانا، خردمند (Wise, knowledgeable) ~ boy ~ 
+
+فارسی  ~ رادین (Radin) ~ روشنفکر، دانشمند (Intellectual, scholar) ~ boy ~ 
+
+فارسی  ~ سرور (Sorour) ~ شادی، خوشحالی (Happiness, joy) ~ boy ~ 
+
+فارسی  ~ شهریار (Shahriar) ~ پادشاه شهر (King of the city) ~ boy ~ 
+
+فارسی  ~ عرفان (Erfan) ~ دانش و عرفان (Knowledge and mysticism) ~ boy ~ 
+
+فارسی  ~ فرامرز (Faramarz) ~ شجاع و برجسته (Brave and prominent) ~ boy ~ 
+
+فارسی  ~ کیومرث (Keyumars) ~ شاهزاده (Prince) ~ boy ~ 
+
+فارسی  ~ ماهان (Mahan) ~ ماهتاب (Moonlight) ~ boy ~ 
+
+فارسی  ~ نیوشا (Niyousha) ~ نیکوکار (Good doer) ~ boy ~ 
+
+فارسی  ~ بهرنگ (Behrang) ~ دارای رنگ و برجستگی (Colorful and prominent) ~ boy ~ 
+
+فارسی  ~ مهتاب (Mahtab) ~ نور ماه (Moonlight) ~ boy ~ 
+
+فارسی  ~ روزان (Rouzan) ~ روشنی (Brightness) ~ boy ~ 
+
+فارسی  ~ ژاوید (Zhavid) ~ پایدار و دیرینه (Steadfast and ancient) ~ boy ~ 
+
+فارسی  ~ آتشین (Atashin) ~ آتشین، شعله‌ور (Fiery, blazing) ~ boy ~ 
+
+فارسی  ~ آرمین (Armin) ~ مرد قوی و پرشور (Strong and passionate man) ~ boy ~ 
+
+فارسی  ~ آریا (Aria) ~ نجیب، نیکو (Noble, good) ~ boy ~ 
+
+فارسی  ~ آیدا (Aida) ~ هدیه خدا (God's gift) ~ boy ~ 
+
+فارسی  ~ آرش (Arash) ~ قوی، پرشور (Strong, enthusiastic) ~ boy ~ 
+
+فارسی  ~ آرمان (Arman) ~ آرزو، امید (Desire, hope) ~ boy ~ 
+
+فارسی  ~ آریان (Arian) ~ نجیب، شریف (Noble, honorable) ~ boy ~ 
+
+فارسی  ~ آصف (Asaf) ~ ستاره (Star) ~ boy ~ 
+
+فارسی  ~ آهورا (Ahura) ~ خدایان (Gods) ~ boy ~ 
+
+فارسی  ~ احمد (Ahmad) ~ تحسین شده (Praised) ~ boy ~ 
+
+فارسی  ~ اسماعیل (Esmail) ~ شنیده شده از خدا (Heard from God) ~ boy ~ 
+
+فارسی  ~ اشکان (Ashkan) ~ جوان و نو (Young and new) ~ boy ~ 
+
+فارسی  ~ اشوان (Ashvan) ~ دارای آتش (Possessing fire) ~ boy ~ 
+
+فارسی  ~ افشین (Afshin) ~ دارای بال (Possessing wings) ~ boy ~ 
+
+فارسی  ~ امیرحسین (Amirhossein) ~ شاهزاده حسین (Prince Hossein) ~ boy ~ 
+
+فارسی  ~ امیررضا (Amirreza) ~ شاهزاده رضا (Prince Reza) ~ boy ~ 
+
+فارسی  ~ امیرعلی (Amirali) ~ شاهزاده علی (Prince Ali) ~ boy ~ 
+
+فارسی  ~ امیرکیان (Amirkian) ~ شاهزاده بزرگ (Great prince) ~ boy ~ 
+
+فارسی  ~ امین‌الله (Aminullah) ~ امانتدار خدا (Trustworthy of God) ~ boy ~ 
+
+فارسی  ~ امیدوار (Omidvar) ~ دارای امید (Hopeful) ~ boy ~ 
+
+فارسی  ~ انوش (Anoush) ~ شیرین، نیکو (Sweet, beautiful) ~ boy ~ 
+
+فارسی  ~ اورنگ (Orang) ~ رنگین، رنگارنگ (Colorful) ~ boy ~ 
+
+فارسی  ~ اوشیان (Oshyan) ~ دارای آتش (Possessing fire) ~ boy ~ 
+
+فارسی  ~ ایمان (Iman) ~ اعتقاد و وفاداری (Faith and loyalty) ~ boy ~ 
+
+فارسی  ~ بارمان (Barman) ~ ستاره، اختصاصی (Star, exclusive) ~ boy ~ 
+
+فارسی  ~ بامداد (Bamdad) ~ صبح زود (Early morning) ~ boy ~ 
+
+فارسی  ~ بهادار (Bahadar) ~ شجاع و دلاور (Brave and valiant) ~ boy ~ 
+
+فارسی  ~ بهرامین (Bahramin) ~ شاهزاده بهرام (Prince Bahram) ~ boy ~ 
+
+فارسی  ~ بهزاد (Behzad) ~ دارای نزاکت (Gentle) ~ boy ~ 
+
+فارسی  ~ بهمن‌پور (Bahmanpour) ~ فرزند بهمن (Child of Bahman) ~ boy ~ 
+
+فارسی  ~ بهمن‌فر (Bahmanfar) ~ دارای برکت (Blessed) ~ boy ~ 
+
+فارسی  ~ بهنام (Behnam) ~ نامور، مشهور (Famous, renowned) ~ boy ~ 
+
+فارسی  ~ بهنود (Behnoud) ~ خوش شانس (Lucky) ~ boy ~ 
+
+فارسی  ~ برومند (Beroumand) ~ مرد جاهل (Ignorant man) ~ boy ~ 
+
+فارسی  ~ پارسا (Parisa) ~ نیکوکار و شریف (Good and noble) ~ boy ~ 
+
+فارسی  ~ پاکش (Paksh) ~ پاک و بی‌عیب (Pure and faultless) ~ boy ~ 
+
+فارسی  ~ پامچال (Pamchal) ~ پاکیزه (Pure) ~ boy ~ 
+
+فارسی  ~ پرتو (Partow) ~ شعاع، نور (Ray, light) ~ boy ~ 
+
+فارسی  ~ پژوا (Pejva) ~ خبرگیر (News listener) ~ boy ~ 
+
+فارسی  ~ پیامبر (Payambar) ~ رسول (Messenger) ~ boy ~ 
+
+فارسی  ~ پیمان‌بخش (Peymanbakhsh) ~ وعده‌دهنده (Promisor) ~ boy ~ 
+
+فارسی  ~ تابان (Taban) ~ درخشان، روشن (Radiant, bright) ~ boy ~ 
+
+فارسی  ~ تاجی (Taji) ~ تاج‌دار، سرافراز (Crowned, victorious) ~ boy ~ 
+
+فارسی  ~ ترانه (Taraneh) ~ نغمه (Melody) ~ boy ~ 
+
+فارسی  ~ تراب (Torab) ~ گل خاکی (Earthy) ~ boy ~ 
+
+فارسی  ~ تیرانداز (Tirandaz) ~ شمشیرزن (Swordsman) ~ boy ~ 
+
+فارسی  ~ جمشید (Jamshid) ~ خورشید (Sun) ~ boy ~ 
+
+فارسی  ~ جهانبخش (Jahanbakhsh) ~ توسعه‌دهنده جهان (World developer) ~ boy ~ 
+
+فارسی  ~ جواد (Javad) ~ جوانمرد و شجاع (Brave and courageous) ~ boy ~ 
+
+فارسی  ~ جهانگیر (Jahangir) ~ فتح‌گر، غالب (Conqueror, victorious) ~ boy ~ 
+
+فارسی  ~ چکاوک (Chakavak) ~ نغمه خوان (Melodious singer) ~ boy ~ 
+
+فارسی  ~ خادم (Khadem) ~ خدمتکار (Servant) ~ boy ~ 
+
+فارسی  ~ خشایار (Khashayar) ~ دارای خشونت (Violent) ~ boy ~ 
+
+فارسی  ~ خسروشاه (Khosroshah) ~ پادشاه بزرگ (Great king) ~ boy ~ 
+
+فارسی  ~ خلیل (Khalil) ~ دوست صمیمی (Close friend) ~ boy ~ 
+
+فارسی  ~ خورشید (Khorshid) ~ خورشید (Sun) ~ boy ~ 
+
+فارسی  ~ داریوش (Dariush) ~ ستاره، خوش‌قدم (Star, graceful) ~ boy ~ 
+
+فارسی  ~ دانا (Dana) ~ دانشمند (Scholar) ~ boy ~ 
+
+فارسی  ~ داراب (Darab) ~ شجاع، دلاور (Brave, valiant) ~ boy ~ 
+
+فارسی  ~ دریا (Darya) ~ دریا (Sea) ~ boy ~ 
+
+فارسی  ~ دمیر (Damir) ~ سخنران (Orator) ~ boy ~ 
+
+فارسی  ~ رابین (Rabin) ~ دارای نقشه (Planner) ~ boy ~ 
+
+فارسی  ~ راد (Rad) ~ راه، راهنما (Path, guide) ~ boy ~ 
+
+فارسی  ~ رازان (Razan) ~ رازگشایی کننده (Revealer) ~ boy ~ 
+
+فارسی  ~ راهمان (Rahman) ~ دارای راه و روش (Having a method) ~ boy ~ 
+
+فارسی  ~ راوی (Ravi) ~ شاعر، داستان‌گو (Poet, storyteller) ~ boy ~ 
+
+فارسی  ~ رستم‌آرا (Rostamar) ~ پشتوانه‌بار، مدافع (Defender) ~ boy ~ 
+
+فارسی  ~ رستم‌بخش (Rostambakhsh) ~ بخشنده (Generous) ~ boy ~ 
+
+فارسی  ~ روزبه (Ruzbeh) ~ دارای پیروزی (Victorious) ~ boy ~ 
+
+فارسی  ~ روزنامه (Ruzname) ~ روزنویس (Journalist) ~ boy ~ 
+
+فارسی  ~ روشان (Rowshan) ~ درخشان، روشن (Shining, bright) ~ boy ~ 
+
+فارسی  ~ روناک (Runak) ~ درخشان، روشن (Bright, radiant) ~ boy ~ 
+
+فارسی  ~ رهام (Raham) ~ رحمت، مهربانی (Mercy, kindness) ~ boy ~ 
+
+فارسی  ~ رهیار (Rahyar) ~ راهنما، راهبر (Guide, navigator) ~ boy ~ 
+
+فارسی  ~ زابل (Zabol) ~ زمین (Earth) ~ boy ~ 
+
+فارسی  ~ زاهد (Zahed) ~ منزه، پرهیزکار (Innocent, abstinent) ~ boy ~ 
+
+فارسی  ~ زرتشت (Zoroast) ~ دارای زرتشتیان (Zoroastrian) ~ boy ~ 
+
+فارسی  ~ زمان (Zaman) ~ زمان، دوران (Time, era) ~ boy ~ 
+
+فارسی  ~ زمرد (Zomorod) ~ نیلوفر سبز (Green emerald) ~ boy ~ 
+
+فارسی  ~ زین‌الدین (Zinaddin) ~ زینت و دین (Beauty and religion) ~ boy ~ 
+
