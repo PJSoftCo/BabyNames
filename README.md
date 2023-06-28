@@ -5307,3 +5307,705 @@ english ~ Payton ~ Noble's Town ~ girl ~
 english ~ Penelope ~ Weaver ~ girl ~ 
 
 english ~ Peyton ~ Noble ~ girl ~
+
+عربی  ~ محمد (Mohammed) ~ Praiseworthy ~ boy ~
+
+عربی  ~ أحمد (Ahmed) ~ Most praiseworthy ~ boy ~
+
+عربی  ~ علي (Ali) ~ Noble, exalted ~ boy ~
+
+عربی  ~ يوسف (Youssef) ~ Joseph ~ boy ~
+
+عربی  ~ عبد الله (Abdullah) ~ Servant of Allah ~ boy ~
+
+عربی  ~ عمر (Omar) ~ Long-lived, flourishing ~ boy ~
+
+عربی  ~ ياسر (Yasser) ~ Easy, smooth ~ boy ~
+
+عربی  ~ مصطفى (Mustafa) ~ The chosen one ~ boy ~
+
+عربی  ~ خالد (Khaled) ~ Eternal, immortal ~ boy ~
+
+عربی  ~ سعيد (Saeed) ~ Happy, fortunate ~ boy ~
+
+عربی  ~ حسين (Hussein) ~ Good, handsome ~ boy ~
+
+عربی  ~ أيمن (Ayman) ~ Righteous, blessed ~ boy ~
+
+عربی  ~ حسن (Hassan) ~ Beautiful, good ~ boy ~
+
+عربی  ~ حمزة (Hamza) ~ Lion ~ boy ~
+
+عربی  ~ ناصر (Nasser) ~ Helper, supporter ~ boy ~
+
+عربی  ~ رامي (Rami) ~ Marksman, thrower ~ boy ~
+
+عربی  ~ طارق (Tarek) ~ Morning star ~ boy ~
+
+عربی  ~ فهد (Fahd) ~ Panther, leopard ~ boy ~
+
+عربی  ~ محمود (Mahmoud) ~ Praiseworthy ~ boy ~
+
+عربی  ~ أحمد (Ahmad) ~ Most praiseworthy ~ boy ~
+
+عربی  ~ سامي (Sami) ~ Elevated, exalted ~ boy ~
+
+عربی  ~ رياض (Riyadh) ~ Gardens ~ boy ~
+
+عربی  ~ خضر (Khidr) ~ Green ~ boy ~
+
+عربی  ~ وليد (Waleed) ~ Newborn, child ~ boy ~
+
+عربی  ~ راشد (Rashed) ~ Rightly guided ~ boy ~
+
+عربی  ~ مروان (Marwan) ~ Flint stone ~ boy ~
+
+عربی  ~ زكريا (Zakaria) ~ Zechariah ~ boy ~
+
+عربی  ~ عماد (Imad) ~ Pillar, support ~ boy ~
+
+عربی  ~ خليل (Khalil) ~ Friend ~ boy ~
+
+عربی  ~ جمال (Jamal) ~ Beauty, elegance ~ boy ~
+
+عربی  ~ عبد الرحمن (Abdulrahman) ~ Servant of the Most Gracious ~ boy ~
+
+عربی  ~ نور (Nour) ~ Light ~ boy ~
+
+عربی  ~ يعقوب (Yaqub) ~ Jacob ~ boy ~
+
+عربی  ~ يزن (Yazan) ~ Fierce, powerful ~ boy ~
+
+عربی  ~ سليمان (Sulaiman) ~ Solomon ~ boy ~
+
+عربی  ~ نادر (Nader) ~ Rare, scarce ~ boy ~
+
+عربی  ~ عادل (Adel) ~ Just, fair ~ boy ~
+
+عربی  ~ عبد العزيز (Abdulaziz) ~ Servant of the Almighty ~ boy ~
+
+عربی  ~ مجدي (Magdi) ~ Glorious, magnificent ~ boy ~
+
+عربی  ~ رائد (Ra'ed) ~ Leader, pioneer ~ boy ~
+
+عربی  ~ فارس (Fares) ~ Knight ~ boy ~
+
+عربی  ~ معتصم (Mu'tasim) ~ One who seeks shelter ~ boy ~
+
+عربی  ~ عبد الوهاب (Abdulwahab) ~ Servant of the Bestower ~ boy ~
+
+عربی  ~ معاذ (Muadh) ~ Protected, guarded ~ boy ~
+
+عربی  ~ رشيد (Rashid) ~ Rightly guided ~ boy ~
+
+عربی  ~ صلاح (Salah) ~ Righteousness, goodness ~ boy ~
+
+عربی  ~ إبراهيم (Ibrahim) ~ Abraham ~ boy ~
+
+عربی  ~ شريف (Shareef) ~ Noble, honorable ~ boy ~
+
+عربی  ~ رائد (Raed) ~ Explorer, pioneer ~ boy ~
+
+عربی  ~ سامر (Samer) ~ Reward, fruit ~ boy ~
+
+عربی  ~ أنس (Anas) ~ Friendly, companion ~ boy ~
+
+عربی  ~ يحيى (Yahya) ~ John ~ boy ~
+
+عربی  ~ سهيل (Suhail) ~ Canopus star ~ boy ~
+
+عربی  ~ مازن (Mazen) ~ Rain clouds ~ boy ~
+
+عربی  ~ حاتم (Hatem) ~ Generous, altruistic ~ boy ~
+
+عربی  ~ سمير (Sameer) ~ Companion, friend ~ boy ~
+
+عربی  ~ إياد (Iyad) ~ Support, strength ~ boy ~
+
+عربی  ~ سعود (Saud) ~ Fortunate, prosperous ~ boy ~
+
+عربی  ~ كريم (Kareem) ~ Generous, noble ~ boy ~
+
+عربی  ~ ذياب (Thiyab) ~ Wolf ~ boy ~
+
+عربی  ~ جلال (Jalal) ~ Greatness, majesty ~ boy ~
+
+عربی  ~ مراد (Murad) ~ Wish, desire ~ boy ~
+
+عربی  ~ ريان (Ryan) ~ Gates of paradise ~ boy ~
+
+عربی  ~ خلف (Khalf) ~ Successor, heir ~ boy ~
+
+عربی  ~ فهمي (Fahmi) ~ Intellectual, wise ~ boy ~
+
+عربی  ~ جهاد (Jihad) ~ Struggle, striving ~ boy ~
+
+عربی  ~ خضير (Khudair) ~ Green ~ boy ~
+
+عربی  ~ معن (Ma'an) ~ Meaning, significance ~ boy ~
+
+عربی  ~ مالك (Malik) ~ King, master ~ boy ~
+
+عربی  ~ عمران (Imran) ~ Prosperity, civilization ~ boy ~
+
+عربی  ~ فادي (Fadi) ~ Savior, redeemer ~ boy ~
+
+عربی  ~ شهاب (Shihab) ~ Meteor, shooting star ~ boy ~
+
+عربی  ~ إلياس (Ilyas) ~ Elijah ~ boy ~
+
+عربی  ~ هيثم (Haytham) ~ Young hawk ~ boy ~
+
+عربی  ~ ماهر (Maher) ~ Skilled, proficient ~ boy ~
+
+عربی  ~ ياسين (Yasin) ~ Yasin (a chapter in the Quran) ~ boy ~
+
+عربی  ~ رؤوف (Raouf) ~ Compassionate, kind ~ boy ~
+
+عربی  ~ سلطان (Sultan) ~ Sultan, ruler ~ boy ~
+
+عربی  ~ رشاد (Rashad) ~ Integrity, guidance ~ boy ~
+
+عربی  ~ وائل (Wael) ~ Rescuer, finder ~ boy ~
+
+عربی  ~ ضياء (Diaa) ~ Light, splendor ~ boy ~
+
+عربی  ~ أحمد (Ahmad) ~ Most praiseworthy ~ boy ~
+
+عربی  ~ راكان (Rakan) ~ Pillar, support ~ boy ~
+
+عربی  ~ ماجد (Majid) ~ Glorious, honorable ~ boy ~
+
+عربی  ~ حيدر (Hayder) ~ Lion ~ boy ~
+
+عربی  ~ سامي (Sammy) ~ Exalted, high ~ boy ~
+
+عربی  ~ غسان (Ghassan) ~ Youth, vigor ~ boy ~
+
+عربی  ~ يونس (Younes) ~ Jonah ~ boy ~
+
+عربی  ~ شادي (Shadi) ~ Singer ~ boy ~
+
+عربی  ~ إبراهيم (Ibraheem) ~ Abraham ~ boy ~
+
+عربی  ~ عبد الرحمن (Abdulrahman) ~ Servant of the Most Gracious ~ boy ~
+
+عربی  ~ حمدان (Hamdan) ~ Praiseworthy ~ boy ~
+
+عربی  ~ إلهام (Ilham) ~ Inspiration, revelation ~ boy ~
+
+عربی  ~ رامي (Ramy) ~ Thrower, archer ~ boy ~
+
+عربی  ~ أنور (Anwar) ~ Radiant, enlightened ~ boy ~
+
+عربی  ~ طلال (Talal) ~ Nice, admirable ~ boy ~
+
+عربی  ~ سليم (Saleem) ~ Safe, sound ~ boy ~
+
+عربی  ~ جهاد (Jehad) ~ Striving, struggling ~ boy ~
+
+عربی  ~ نبيل (Nabil) ~ Noble, honorable ~ boy ~
+
+عربی  ~ وائل (Wael) ~ Rescuer, savior ~ boy ~
+
+عربی  ~ فراس (Firas) ~ Perspicacity, sharpness ~ boy ~
+
+عربی  ~ نايف (Naif) ~ Exalted, lofty ~ boy ~
+
+عربی  ~ عبيد (Obaid) ~ Servant, worshiper ~ boy ~
+
+عربی  ~ توفيق (Tawfiq) ~ Success, prosperity ~ boy ~
+
+عربی  ~ سعد (Saad) ~ Felicity, happiness ~ boy ~
+
+عربی  ~ جابر (Jaber) ~ Comforter, consoler ~ boy ~
+
+عربی  ~ ماهر (Mahir) ~ Skilled, proficient ~ boy ~
+
+عربی  ~ عدنان (Adnan) ~ Settler, cultivator ~ boy ~
+
+عربی  ~ هشام (Hisham) ~ Generosity, kindness ~ boy ~
+
+عربی  ~ مالك (Malak) ~ Angel, messenger ~ boy ~
+
+عربی  ~ سفيان (Sufyan) ~ Pious, devout ~ boy ~
+
+عربی  ~ غيث (Ghaith) ~ Rain ~ boy ~
+
+عربی  ~ يزيد (Yazeed) ~ Increasing, growing ~ boy ~
+
+عربی  ~ عبد العزيز (Abdulaziz) ~ Servant of the Almighty ~ boy ~
+
+عربی  ~ حسني (Husni) ~ Beautiful, handsome ~ boy ~
+
+عربی  ~ صلاح الدين (Salahuddin) ~ Righteousness of the faith ~ boy ~
+
+عربی  ~ رضا (Rida) ~ Contentment, satisfaction ~ boy ~
+
+عربی  ~ سلمان (Salman) ~ Safe, secure ~ boy ~
+
+عربی  ~ كامل (Kamil) ~ Perfect, complete ~ boy ~
+
+عربی  ~ حفصة (Hafsa) ~ Young lioness ~ boy ~
+
+عربی  ~ طلعت (Talat) ~ Appearance, manifestation ~ boy ~
+
+عربی  ~ مروان (Mervan) ~ Flint stone ~ boy ~
+
+عربی  ~ أسامة (Osama) ~ Lion-like ~ boy ~
+
+عربی  ~ مصعب (Musab) ~ Strong, powerful ~ boy ~
+
+عربی  ~ فهد (Fahd) ~ Panther, leopard ~ boy ~
+
+عربی  ~ سهيل (Suhayl) ~ Canopus star ~ boy ~
+
+عربی  ~ حارث (Harith) ~ Plowman, cultivator ~ boy ~
+
+عربی  ~ عادل (Adil) ~ Just, fair ~ boy ~
+
+عربی  ~ زياد (Ziyad) ~ Growth, increase ~ boy ~
+
+عربی  ~ فارس (Fares) ~ Knight, horseman ~ boy ~
+
+عربی  ~ ثابت (Thabit) ~ Firm, constant ~ boy ~
+
+عربی  ~ رؤوف (Raouf) ~ Compassionate, kind ~ boy ~
+
+عربی  ~ فايز (Fayez) ~ Victorious, successful ~ boy ~
+
+عربی  ~ وليد (Walid) ~ Newborn, child ~ boy ~
+
+عربی  ~ سامر (Samer) ~ Reward, fruit ~ boy ~
+
+عربی  ~ يماني (Yamani) ~ Right-handed ~ boy ~
+
+عربی  ~ سفيان (Sufian) ~ Pious, virtuous ~ boy ~
+
+عربی  ~ حازم (Hazem) ~ Resolute, determined ~ boy ~
+
+عربی  ~ قاسم (Qasim) ~ Divider, distributor ~ boy ~
+
+عربی  ~ ياسر (Yaser) ~ Easy, smooth ~ boy ~
+
+عربی  ~ صابر (Saber) ~ Patient, persevering ~ boy ~
+
+عربی  ~ معاوية (Muawiya) ~ Pre-Islamic Arab king ~ boy ~
+
+عربی  ~ طه (Taha) ~ Name of a prophet ~ boy ~
+
+عربی  ~ عبد القادر (Abdelqader) ~ Servant of the Powerful ~ boy ~
+
+عربی  ~ إلياس (Elias) ~ Elijah ~ boy ~
+
+عربی  ~ جلال الدين (Jalaluddin) ~ Majesty of the faith ~ boy ~
+
+عربی  ~ سعيد (Saeed) ~ Happy, fortunate ~ boy ~
+
+عربی  ~ قيس (Qais) ~ Measuring, gauging ~ boy ~
+
+عربی  ~ عزام (Azzam) ~ Determined, resolved ~ boy ~
+
+عربی  ~ محفوظ (Mahfoud) ~ Preserved, safeguarded ~ boy ~
+
+عربی  ~ رؤوف (Raouf) ~ Compassionate, merciful ~ boy ~
+
+عربی  ~ إلياس (Elyas) ~ Prophet Elijah ~ boy ~
+
+عربی  ~ هاشم (Hashem) ~ Generous, magnanimous ~ boy ~
+
+عربی  ~ صالح (Saleh) ~ Virtuous, righteous ~ boy ~
+
+عربی  ~ سيف (Saif) ~ Sword ~ boy ~
+
+عربی  ~ عمران (Imran) ~ Prosperity, flourishing ~ boy ~
+
+عربی  ~ حازم (Hazem) ~ Decisive, determined ~ boy ~
+
+عربی  ~ راشد (Rasheed) ~ Guided, righteous ~ boy ~
+
+عربی  ~ إدريس (Idris) ~ Enoch ~ boy ~
+
+عربی  ~ يزن (Yazan) ~ Fierce, powerful ~ boy ~
+
+عربی  ~ سليمان (Suleiman) ~ Solomon ~ boy ~
+
+عربی  ~ فاروق (Farouk) ~ One who distinguishes truth from falsehood ~ boy ~
+
+عربی  ~ نصر (Nasr) ~ Victory, triumph ~ boy ~
+
+عربی  ~ طارق (Tariq) ~ Morning star ~ boy ~
+
+عربی  ~ ماجد (Majed) ~ Glorious, noble ~ boy ~
+
+عربی  ~ خالد (Khalid) ~ Eternal, immortal ~ boy ~
+
+عربی  ~ فهمي (Fahmy) ~ Intellectual, knowledgeable ~ boy ~
+
+عربی  ~ يعقوب (Yacoub) ~ Jacob ~ boy ~
+
+عربی  ~ يونس (Younis) ~ Jonah ~ boy ~
+
+عربی  ~ قاسم (Qassim) ~ Divider, distributor ~ boy ~
+
+عربی  ~ نديم (Nadim) ~ Friend, companion ~ boy ~
+
+عربی  ~ سلطان (Soltan) ~ Sultan, ruler ~ boy ~
+
+عربی  ~ شريف (Sharif) ~ Noble, honorable ~ boy ~
+
+عربی  ~ غسان (Ghassan) ~ Youth, vigor ~ boy ~
+
+عربی  ~ معاذ (Muath) ~ Protected, guarded ~ boy ~
+
+عربی  ~ حافظ (Hafiz) ~ Guardian, protector ~ boy ~
+
+عربی  ~ رامز (Ramez) ~ Symbol, emblem ~ boy ~
+
+عربی  ~ عزيز (Aziz) ~ Dear, precious ~ boy ~
+
+عربی  ~ ماهر (Maher) ~ Skillful, expert ~ boy ~
+
+عربی  ~ يمان (Yaman) ~ Right, blessed ~ boy ~
+
+عربی  ~ زكريا (Zakaria) ~ Zechariah ~ boy ~
+
+عربی  ~ طلال (Talal) ~ Nice, pleasant ~ boy ~
+
+عربی  ~ أحمد (Ahmed) ~ Most praiseworthy ~ boy ~
+
+عربی  ~ رشاد (Rashad) ~ Right guidance, integrity ~ boy ~
+
+عربی  ~ أنس (Anas) ~ Friendly, companion ~ boy ~
+
+عربی  ~ زين العابدين (Zainulabidin) ~ Adornment of the worshippers ~ boy ~
+
+عربی  ~ إسحاق (Is'haq) ~ Isaac ~ boy ~
+
+عربی  ~ زيد (Zaid) ~ Growth, increase ~ boy ~
+
+عربی  ~ خليل (Khalil) ~ Friend ~ boy ~
+
+عربی  ~ محمود (Mahmoud) ~ Praiseworthy ~ boy ~
+
+عربی  ~ رضوان (Ridwan) ~ Contentment, satisfaction ~ boy ~
+
+عربی  ~ أمير (Amir) ~ Prince, commander ~ boy ~
+
+عربی  ~ محمد علي (Mohamed Ali) ~ Praiseworthy, exalted ~ boy ~
+
+عربی  ~ ناصر (Nasser) ~ Helper, supporter ~ boy ~
+
+عربی  ~ حسن (Hassan) ~ Beautiful, good ~ boy ~
+
+عربی  ~ سعود (Saud) ~ Fortunate, prosperous ~ boy ~
+
+عربی  ~ محمد رسول (Mohamed Rasool) ~ Mohammed, the Messenger ~ boy ~
+
+عربی  ~ سامي (Sammy) ~ Exalted, elevated ~ boy ~
+
+عربی  ~ زيادة (Ziadah) ~ Increase, growth ~ boy ~
+
+عربی  ~ فتحي (Fathi) ~ Conqueror, victor ~ boy ~
+
+عربی  ~ عباس (Abbas) ~ Lion ~ boy ~
+
+عربی  ~ هشام (Hisham) ~ Generosity, kindness ~ boy ~
+
+عربی  ~ جابر (Jaber) ~ Consoler, comforter ~ boy ~
+
+عربی  ~ عماد (Imad) ~ Pillar, support ~ boy ~
+
+عربی  ~ معتز (Moataz) ~ Honored, glorified ~ boy ~
+
+عربی  ~ رائد (Raed) ~ Leader, pioneer ~ boy ~
+
+عربی  ~ حكيم (Hakeem) ~ Wise, knowledgeable ~ boy ~
+
+عربی  ~ إسماعيل (Ismail) ~ Ishmael ~ boy ~
+
+عربی  ~ شادي (Shady) ~ Singer, melodious ~ boy ~
+
+عربی  ~ طلال (Talal) ~ Adornment, ornamentation ~ boy ~
+
+عربی  ~ عادي (Adi) ~ Calm, peaceful ~ boy ~
+
+عربی  ~ رياض (Riyadh) ~ Gardens, meadows ~ boy ~
+
+عربی  ~ عبد الحكيم (Abdulhakim) ~ Servant of the Wise ~ boy ~
+
+عربی  ~ يحيى (Yahya) ~ John ~ boy ~
+
+عربی  ~ سلام (Salam) ~ Peace ~ boy ~
+
+عربی  ~ سعد (Saad) ~ Good fortune, happiness ~ boy ~
+
+عربی  ~ كريم (Karim) ~ Generous, noble ~ boy ~
+
+عربی  ~ محمد نبي (Mohamed Nabi) ~ Mohammed, the Prophet ~ boy ~
+
+عربی  ~ مؤمن (Moumen) ~ Believer, faithful ~ boy ~
+
+عربی  ~ عبد الوهاب (Abdelwahab) ~ Servant of the Bestower ~ boy ~
+
+عربی  ~ يوسف (Yusuf) ~ Joseph ~ boy ~
+
+عربی  ~ عبد الله (Abdullah) ~ Servant of Allah ~ boy ~
+
+عربی  ~ أكرم (Akram) ~ Generous, noble ~ boy ~
+
+عربی  ~ رشيد (Rasheed) ~ Guided, righteous ~ boy ~
+
+عربی  ~ أحمد حسن (Ahmed Hassan) ~ Most praiseworthy, beautiful ~ boy ~
+
+عربی  ~ خالد (Khaled) ~ Eternal, immortal ~ boy ~
+
+عربی  ~ عمرو (Amr) ~ Long-lived, builder ~ boy ~
+
+عربی  ~ رفعت (Rafat) ~ Elevation, loftiness ~ boy ~
+
+عربی  ~ إياد (Iyad) ~ Support, strength ~ boy ~
+
+عربی  ~ ذياب (Thiyab) ~ Wolf ~ boy ~
+
+عربی  ~ جلال (Jalal) ~ Greatness, majesty ~ boy ~
+
+عربی  ~ محمد عادل (Mohamed Adel) ~ Mohammed, the just ~ boy ~
+
+عربی  ~ غسان (Ghassan) ~ Youth, vigor ~ boy ~
+
+عربی  ~ يونس (Younis) ~ Jonah ~ boy ~
+
+عربی  ~ شادي (Shadi) ~ Singer, melodious ~ boy ~
+
+عربی  ~ ضياء (Diaa) ~ Light, splendor ~ boy ~
+
+عربی  ~ أحمد (Ahmad) ~ Most praiseworthy ~ boy ~
+
+عربی  ~ راكان (Rakan) ~ Pillar, support ~ boy ~
+
+عربی  ~ ماجد (Majid) ~ Glorious, honorable ~ boy ~
+
+عربی  ~ حيدر (Hayder) ~ Lion ~ boy ~
+
+عربی  ~ سامي (Sammy) ~ Exalted, high ~ boy ~
+
+عربی  ~ غسان (Ghassan) ~ Youth, vigor ~ boy ~
+
+عربی  ~ يونس (Younes) ~ Jonah ~ boy ~
+
+عربی  ~ شادي (Shadi) ~ Singer ~ boy ~
+
+عربی  ~ إبراهيم (Ibraheem) ~ Abraham ~ boy ~
+
+عربی  ~ حسين (Hussein) ~ Good, handsome ~ boy ~
+
+عربی  ~ عمر (Omar) ~ Life, long-lived ~ boy ~
+
+عربی  ~ حمزة (Hamza) ~ Lion ~ boy ~
+
+عربی  ~ راشد (Rashid) ~ Righteous, guided ~ boy ~
+
+عربی  ~ صالح (Salih) ~ Virtuous, righteous ~ boy ~
+
+عربی  ~ إلياس (Ilyas) ~ Elijah ~ boy ~
+
+عربی  ~ عبد الله (Abdullah) ~ Servant of Allah ~ boy ~
+
+عربی  ~ فراس (Fares) ~ Knight, horseman ~ boy ~
+
+عربی  ~ يحيى (Yahya) ~ John ~ boy ~
+
+عربی  ~ عبد الرحمن (Abdulrahman) ~ Servant of the Most Gracious ~ boy ~
+
+عربی  ~ صلاح (Salah) ~ Righteousness, goodness ~ boy ~
+
+عربی  ~ إبراهيم (Ibrahim) ~ Abraham ~ boy ~
+
+عربی  ~ شريف (Shareef) ~ Noble, honorable ~ boy ~
+
+عربی  ~ رائد (Raed) ~ Explorer, pioneer ~ boy ~
+
+عربی  ~ سامر (Samer) ~ Reward, fruit ~ boy ~
+
+عربی  ~ أنس (Anas) ~ Friendly, companion ~ boy ~
+
+عربی  ~ يحيى (Yahya) ~ John ~ boy ~
+
+عربی  ~ سهيل (Suhail) ~ Canopus star ~ boy ~
+
+عربی  ~ مازن (Mazen) ~ Rain clouds ~ boy ~
+
+عربی  ~ حاتم (Hatem) ~ Generous, altruistic ~ boy ~
+
+عربی  ~ سمير (Sameer) ~ Companion, friend ~ boy ~
+
+عربی  ~ أحمد علي (Ahmed Ali) ~ Most praiseworthy, exalted ~ boy ~
+
+عربی  ~ رائد (Ra'id) ~ Leader, pioneer ~ boy ~
+
+عربی  ~ حكيم (Hakim) ~ Wise, knowledgeable ~ boy ~
+
+عربی  ~ نبيل (Nabil) ~ Noble, honorable ~ boy ~
+
+عربی  ~ فراس (Firas) ~ Sharp, discerning ~ boy ~
+
+عربی  ~ هاشم (Hashem) ~ Generous, magnanimous ~ boy ~
+
+عربی  ~ مازن (Mazen) ~ Rain clouds ~ boy ~
+
+عربی  ~ طارق (Tareq) ~ Morning star ~ boy ~
+
+عربی  ~ محمود (Mahmoud) ~ Praiseworthy ~ boy ~
+
+عربی  ~ أمجد (Amjad) ~ Glorious, majestic ~ boy ~
+
+عربی  ~ سليمان (Suleiman) ~ Solomon ~ boy ~
+
+عربی  ~ محمد رسول (Mohammed Rasool) ~ Mohammed, the Messenger ~ boy ~
+
+عربی  ~ زكريا (Zakaria) ~ Zechariah ~ boy ~
+
+عربی  ~ حازم (Hazem) ~ Decisive, determined ~ boy ~
+
+عربی  ~ إياد (Iyad) ~ Support, reinforcement ~ boy ~
+
+عربی  ~ رفعت (Rafat) ~ Elevation, loftiness ~ boy ~
+
+عربی  ~ صلاح الدين (Salahuddin) ~ Righteousness of the faith ~ boy ~
+
+عربی  ~ جمال (Gamal) ~ Beauty, grace ~ boy ~
+
+عربی  ~ مصعب (Musab) ~ Strong, powerful ~ boy ~
+
+عربی  ~ رؤوف (Raouf) ~ Kind, compassionate ~ boy ~
+
+عربی  ~ عمران (Imran) ~ Prosperity, flourishing ~ boy ~
+
+عربی  ~ سامي (Sammy) ~ Exalted, elevated ~ boy ~
+
+عربی  ~ عبد القادر (Abdulqadir) ~ Servant of the Capable ~ boy ~
+
+عربی  ~ يوسف (Yusuf) ~ Joseph ~ boy ~
+
+عربی  ~ ماهر (Maher) ~ Skillful, proficient ~ boy ~
+
+عربی  ~ طه (Taha) ~ Name of a prophet ~ boy ~
+
+عربی  ~ زياد (Ziyad) ~ Growth, increase ~ boy ~
+
+عربی  ~ خالد (Khalid) ~ Eternal, immortal ~ boy ~
+
+عربی  ~ عمرو (Amr) ~ Long-lived, prosperous ~ boy ~
+
+عربی  ~ حازم (Hazem) ~ Resolute, determined ~ boy ~
+
+عربی  ~ قاسم (Qasim) ~ Divider, distributor ~ boy ~
+
+عربی  ~ سعيد (Saeed) ~ Happy, fortunate ~ boy ~
+
+عربی  ~ زين العابدين (Zainulabidin) ~ Adornment of the worshippers ~ boy ~
+
+عربی  ~ إسحاق (Is'haq) ~ Isaac ~ boy ~
+
+عربی  ~ زيد (Zaid) ~ Growth, increase ~ boy ~
+
+عربی  ~ خليل (Khalil) ~ Friend ~ boy ~
+
+عربی  ~ محمود (Mahmoud) ~ Praiseworthy ~ boy ~
+
+عربی  ~ رضوان (Ridwan) ~ Contentment, satisfaction ~ boy ~
+
+عربی  ~ أمير (Amir) ~ Prince, commander ~ boy ~
+
+عربی  ~ محمد علي (Mohamed Ali) ~ Praiseworthy, exalted ~ boy ~
+
+عربی  ~ ناصر (Nasser) ~ Helper, supporter ~ boy ~
+
+عربی  ~ حسن (Hassan) ~ Beautiful, good ~ boy ~
+
+عربی  ~ سعود (Saud) ~ Fortunate, prosperous ~ boy ~
+
+عربی  ~ محمد رسول (Mohamed Rasool) ~ Mohammed, the Messenger ~ boy ~
+
+عربی  ~ سامي (Sammy) ~ Exalted, elevated ~ boy ~
+
+عربی  ~ زيادة (Ziadah) ~ Increase, growth ~ boy ~
+
+عربی  ~ فتحي (Fathi) ~ Conqueror, victor ~ boy ~
+
+عربی  ~ عباس (Abbas) ~ Lion ~ boy ~
+
+عربی  ~ هشام (Hisham) ~ Generosity, kindness ~ boy ~
+
+عربی  ~ جابر (Jaber) ~ Consoler, comforter ~ boy ~
+
+عربی  ~ عماد (Imad) ~ Pillar, support ~ boy ~
+
+عربی  ~ معتز (Moataz) ~ Honored, glorified ~ boy ~
+
+عربی  ~ رائد (Raed) ~ Leader, pioneer ~ boy ~
+
+عربی  ~ حكيم (Hakeem) ~ Wise, knowledgeable ~ boy ~
+
+عربی  ~ إسماعيل (Ismail) ~ Ishmael ~ boy ~
+
+عربی  ~ شادي (Shady) ~ Singer, melodious ~ boy ~
+
+عربی  ~ طلال (Talal) ~ Adornment, ornamentation ~ boy ~
+
+عربی  ~ عادي (Adi) ~ Calm, peaceful ~ boy ~
+
+عربی  ~ رياض (Riyadh) ~ Gardens, meadows ~ boy ~
+
+عربی  ~ عبد الحكيم (Abdulhakim) ~ Servant of the Wise ~ boy ~
+
+عربی  ~ يحيى (Yahya) ~ John ~ boy ~
+
+عربی  ~ سلام (Salam) ~ Peace ~ boy ~
+
+عربی  ~ سعد (Saad) ~ Good fortune, happiness ~ boy ~
+
+عربی  ~ كريم (Karim) ~ Generous, noble ~ boy ~
+
+عربی  ~ محمد نبي (Mohamed Nabi) ~ Mohammed, the Prophet ~ boy ~
+
+عربی  ~ مؤمن (Moumen) ~ Believer, faithful ~ boy ~
+
+عربی  ~ عبد الوهاب (Abdelwahab) ~ Servant of the Bestower ~ boy ~
+
+عربی  ~ يوسف (Yusuf) ~ Joseph ~ boy ~
+
+عربی  ~ عبد الله (Abdullah) ~ Servant of Allah ~ boy ~
+
+عربی  ~ أكرم (Akram) ~ Generous, noble ~ boy ~
+
+عربی  ~ رشيد (Rasheed) ~ Guided, righteous ~ boy ~
+
+عربی  ~ أحمد حسن (Ahmed Hassan) ~ Most praiseworthy, beautiful ~ boy ~
+
+عربی  ~ خالد (Khaled) ~ Eternal, immortal ~ boy ~
+
+عربی  ~ عمرو (Amr) ~ Long-lived, builder ~ boy ~
+
+عربی  ~ رفعت (Rafat) ~ Elevation, loftiness ~ boy ~
+
+عربی  ~ إياد (Iyad) ~ Support, strength ~ boy ~
+
+عربی  ~ ذياب (Thiyab) ~ Wolf ~ boy ~
+
+عربی  ~ جلال (Jalal) ~ Greatness, majesty ~ boy ~
+
+عربی  ~ محمد عادل (Mohamed Adel) ~ Mohammed, the just ~ boy ~
+
+عربی  ~ غسان (Ghassan) ~ Youth, vigor ~ boy ~
+
+عربی  ~ يونس (Younis) ~ Jonah ~ boy ~
+
+عربی  ~ شادي (Shadi) ~ Singer, melodious ~ boy ~
+
+عربی  ~ ضياء (Diaa) ~ Light, splendor ~ boy ~
+
+عربی  ~ أحمد (Ahmad) ~ Most praiseworthy ~ boy ~
+
+عربی  ~ رائد (Ra'id) ~ Leader, pioneer ~ boy ~
