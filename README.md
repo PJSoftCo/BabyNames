@@ -3307,3 +3307,1003 @@
 فارسی  ~ یانیک  ~ نام طايفه‌های تركمن  ~ girl ~
 
 فارسی  ~ ایلسانا  ~ السانا، همانند ایل  ~ girl ~
+
+english~Aaron~Mountain of strength~boy~
+
+english~Adam~Man~boy~
+
+english~Adrian~Dark one~boy~
+
+english~Aiden~Little fire~boy~
+
+english~Alan~Handsome~boy~
+
+english~Alexander~Defender of men~boy~
+
+english~Andrew~Manly~boy~
+
+english~Anthony~Highly praiseworthy~boy~
+
+english~Arthur~Bear man~boy~
+
+english~Benjamin~Son of the right hand~boy~
+
+english~Caleb~Faithful~boy~
+
+english~Cameron~Crooked nose~boy~
+
+english~Charles~Free man~boy~
+
+english~Christopher~Christ-bearer~boy~
+
+english~Daniel~God is my judge~boy~
+
+english~David~Beloved~boy~
+
+english~Dominic~Belonging to the Lord~boy~
+
+english~Dylan~Great tide~boy~
+
+english~Edward~Wealthy guardian~boy~
+
+english~Elijah~Yahweh is God~boy~
+
+english~Ethan~Strong~boy~
+
+english~Gabriel~God is my strength~boy~
+
+english~Gavin~White hawk~boy~
+
+english~Henry~Ruler of the household~boy~
+
+english~Isaac~Laughter~boy~
+
+english~Isaiah~Yahweh is salvation~boy~
+
+english~Jack~God is gracious~boy~
+
+english~Jacob~Supplanter~boy~
+
+english~James~Supplanter~boy~
+
+english~Jason~Healer~boy~
+
+english~Jeremiah~God will uplift~boy~
+
+english~John~God is gracious~boy~
+
+english~Jonathan~Yahweh has given~boy~
+
+english~Joseph~May he add~boy~
+
+english~Joshua~Yahweh is salvation~boy~
+
+english~Justin~Just or righteous~boy~
+
+english~Kevin~Handsome~boy~
+
+english~Liam~Desire, helmet~boy~
+
+english~Logan~Little hollow~boy~
+
+english~Lucas~Light-giving~boy~
+
+english~Luke~Light-giving~boy~
+
+english~Matthew~Gift of God~boy~
+
+english~Michael~Who is like God?~boy~
+
+english~Nathan~Gift of God~boy~
+
+english~Nicholas~Victory of the people~boy~
+
+english~Noah~Rest, peace~boy~
+
+english~Oliver~Olive tree~boy~
+
+english~Patrick~Nobleman~boy~
+
+english~Paul~Small~boy~
+
+english~Peter~Rock~boy~
+
+english~Philip~Lover of horses~boy~
+
+english~Richard~Brave ruler~boy~
+
+english~Robert~Bright fame~boy~
+
+english~Samuel~Name of God~boy~
+
+english~Thomas~Twin~boy~
+
+english~Timothy~Honoring God~boy~
+
+english~Tyler~Tile layer~boy~
+
+english~Victor~Conqueror~boy~
+
+english~Vincent~Conquering~boy~
+
+english~William~Strong-willed warrior~boy~
+
+english~Zachary~God has remembered~boy~
+
+english~Adam~Red earth~boy~
+
+english~Adrian~From Hadria~boy~
+
+english~Aidan~Little fiery one~boy~
+
+english~Albert~Noble, bright~boy~
+
+english~Alex~Defender of mankind~boy~
+
+english~Alexander~Defender of men~boy~
+
+english~Allen~Handsome~boy~
+
+english~Alvin~Noble friend~boy~
+
+english~Andrew~Manly~boy~
+
+english~Angel~Messenger of God~boy~
+
+english~Anthony~Priceless one~boy~
+
+english~Arnold~Eagle ruler~boy~
+
+english~Arthur~Bear man~boy~
+
+english~Austin~Majestic~boy~
+
+english~Avery~Ruler of the elves~boy~
+
+english~Barrett~Bear-like~boy~
+
+english~Barry~Spear bearer~boy~
+
+english~Benjamin~Son of the right hand~boy~
+
+english~Bernard~Brave as a bear~boy~
+
+english~Blake~Dark or fair~boy~
+
+english~Bobby~Bright fame~boy~
+
+english~Bradley~Broad clearing~boy~
+
+english~Brandon~Broom-covered hill~boy~
+
+english~Brian~Noble, strong~boy~
+
+english~Bruce~Woods~boy~
+
+english~Bryan~Noble, strong~boy~
+
+english~Caleb~Wholehearted~boy~
+
+english~Calvin~Bald~boy~
+
+english~Cameron~Bent nose~boy~
+
+english~Carl~Strong man~boy~
+
+english~Carlos~Free man~boy~
+
+english~Carter~Cart driver~boy~
+
+english~Charles~Free man~boy~
+
+english~Chase~Huntsman~boy~
+
+english~Christian~Christ follower~boy~
+
+english~Christopher~Bearer of Christ~boy~
+
+english~Clarence~Bright, clear~boy~
+
+english~Clayton~Clay town~boy~
+
+english~Cody~Cushion~boy~
+
+english~Colin~Victory of the people~boy~
+
+english~Connor~Lover of wolves~boy~
+
+english~Cooper~Barrel maker~boy~
+
+english~Corey~Hollow~boy~
+
+english~Craig~Rocky hill~boy~
+
+english~Dale~Valley~boy~
+
+english~Damian~To tame~boy~
+
+english~Damon~To tame~boy~
+
+english~Daniel~God is my judge~boy~
+
+english~Danny~God is my judge~boy~
+
+english~Darius~Rich and kingly~boy~
+
+english~Darren~Great~boy~
+
+english~David~Beloved~boy~
+
+english~Dean~Valley~boy~
+
+english~Derek~Ruler of the people~boy~
+
+english~Devin~Poet~boy~
+
+english~Dominic~Belonging to the Lord~boy~
+
+english~Don~World rule~boy~
+
+english~Douglas~Dark water~boy~
+
+english~Dylan~Sea~boy~
+
+english~Earl~Nobleman~boy~
+
+english~Eddie~Wealthy guardian~boy~
+
+english~Edward~Wealthy guardian~boy~
+
+english~Eli~Lifted up~boy~
+
+english~Elijah~Yahweh is God~boy~
+
+english~Elliot~The Lord is my God~boy~
+
+english~Emerson~Brave~boy~
+
+english~Eric~Ever ruler~boy~
+
+english~Ethan~Strong~boy~
+
+english~Evan~God is gracious~boy~
+
+english~Felix~Fortunate~boy~
+
+english~Fernando~Adventurous~boy~
+
+english~Finn~Fair~boy~
+
+english~Forrest~Of the forest~boy~
+
+english~Francis~Free man~boy~
+
+english~Franklin~Free man~boy~
+
+english~Gabriel~God is my strength~boy~
+
+english~Gavin~Little hawk~boy~
+
+english~George~Farmer~boy~
+
+english~Gerald~Rule of the spear~boy~
+
+english~Gilbert~Bright pledge~boy~
+
+english~Glenn~Valley~boy~
+
+english~Gordon~Great hill~boy~
+
+english~Graham~Gravelly homestead~boy~
+
+english~Grant~Great~boy~
+
+english~Gregory~Vigilant watchman~boy~
+
+english~Harold~Army ruler~boy~
+
+english~Harrison~Son of Harry~boy~
+
+english~Harry~Ruler of the household~boy~
+
+english~Hayden~Fire~boy~
+
+english~Henry~Ruler of the household~boy~
+
+english~Howard~Brave heart~boy~
+
+english~Hugh~Heart, mind~boy~
+
+english~Hugo~Mind, intellect~boy~
+
+english~Hunter~One who hunts~boy~
+
+english~Ian~God is gracious~boy~
+
+english~Isaac~Laughter~boy~
+
+english~Isaiah~Yahweh is salvation~boy~
+
+english~Jack~God is gracious~boy~
+
+english~Jackson~Son of Jack~boy~
+
+english~Jacob~Supplanter~boy~
+
+english~Jake~Supplanter~boy~
+
+english~James~Supplanter~boy~
+
+english~Jason~Healer~boy~
+
+english~Jasper~Treasure master~boy~
+
+english~Javier~Bright~boy~
+
+english~Jay~Jay bird~boy~
+
+english~Jeff~God peace~boy~
+
+english~Jeremiah~God will uplift~boy~
+
+english~Jeremy~Appointed by God~boy~
+
+english~Jerome~Sacred name~boy~
+
+english~Jesse~God's gift~boy~
+
+english~Jesus~God saves~boy~
+
+english~Jim~Supplanter~boy~
+
+english~Jimmy~Supplanter~boy~
+
+english~Joe~God will increase~boy~
+
+english~Joel~God is willing~boy~
+
+english~John~God is gracious~boy~
+
+english~Johnny~God is gracious~boy~
+
+english~Jonathan~Yahweh has given~boy~
+
+english~Jordan~To descend~boy~
+
+english~Joseph~May he add~boy~
+
+english~Josh~Yahweh is salvation~boy~
+
+english~Joshua~Yahweh is salvation~boy~
+
+english~Juan~God is gracious~boy~
+
+english~Julian~Youthful~boy~
+
+english~Justin~Righteous~boy~
+
+english~Keith~Wood~boy~
+
+english~Kelly~Warrior~boy~
+
+english~Kenneth~Handsome~boy~
+
+english~Kevin~Handsome~boy~
+
+english~Kyle~Narrow~boy~
+
+english~Lance~Land~boy~
+
+english~Larry~Laurel tree~boy~
+
+english~Lawrence~Laurel wreath~boy~
+
+english~Lee~Meadow~boy~
+
+english~Leo~Lion~boy~
+
+english~Leonard~Brave lion~boy~
+
+english~Lewis~Renowned warrior~boy~
+
+english~Liam~Strong-willed warrior~boy~
+
+english~Logan~Little hollow~boy~
+
+english~Louis~Famous warrior~boy~
+
+english~Lucas~Light-giving~boy~
+
+english~Luke~Light-giving~boy~
+
+english~Malcolm~Disciple of Saint Columba~boy~
+
+english~Manuel~God is with us~boy~
+
+english~Marcus~Warlike~boy~
+
+english~Mario~Warrior~boy~
+
+english~Mark~Warlike~boy~
+
+english~Martin~Warlike~boy~
+
+english~Mason~Stone worker~boy~
+
+english~Matthew~Gift of God~boy~
+
+english~Maurice~Dark-skinned~boy~
+
+english~Max~Greatest~boy~
+
+english~Maxwell~Great stream~boy~
+
+english~Michael~Who is like God?~boy~
+
+english~Miguel~Who is like God?~boy~
+
+english~Miles~Soldier~boy~
+
+english~Mitchell~Who is like God?~boy~
+
+english~Mohammed~Praiseworthy~boy~
+
+english~Morgan~Sea warrior~boy~
+
+english~Nathan~Gift of God~boy~
+
+english~Nathaniel~God has given~boy~
+
+english~Neil~Champion~boy~
+
+english~Nicholas~Victory of the people~boy~
+
+english~Noah~Rest, peace~boy~
+
+english~Nolan~Champion~boy~
+
+english~Oliver~Olive tree~boy~
+
+english~Oscar~God's spear~boy~
+
+english~Owen~Well-born~boy~
+
+english~Parker~Park keeper~boy~
+
+english~Patrick~Nobleman~boy~
+
+english~Paul~Small~boy~
+
+english~Pedro~Rock~boy~
+
+english~Perry~Pear tree~boy~
+
+english~Peter~Rock~boy~
+
+english~Philip~Lover of horses~boy~
+
+english~Phillip~Lover of horses~boy~
+
+english~Pierce~Rock~boy~
+
+english~Preston~Priest's town~boy~
+
+english~Rafael~God has healed~boy~
+
+english~Ralph~Wolf counselor~boy~
+
+english~Randy~Wolf counselor~boy~
+
+english~Raymond~Wise protector~boy~
+
+english~Reggie~Ruler's advisor~boy~
+
+english~Reginald~Ruler's advisor~boy~
+
+english~Richard~Brave ruler~boy~
+
+english~Ricky~Brave ruler~boy~
+
+english~Riley~Courageous~boy~
+
+english~Robert~Bright fame~boy~
+
+english~Robin~Bright fame~boy~
+
+english~Rodney~Island near the clearing~boy~
+
+english~Roger~Famous spear~boy~
+
+english~Ronald~Ruler's counselor~boy~
+
+english~Ronnie~Ruler's counselor~boy~
+
+english~Ross~Headland, promontory~boy~
+
+english~Roy~Red-haired~boy~
+
+english~Russell~Red-haired~boy~
+
+english~Ryan~Little king~boy~
+
+english~Sam~God has heard~boy~
+
+english~Samuel~Name of God~boy~
+
+english~Santiago~Saint James~boy~
+
+english~Scott~From Scotland~boy~
+
+english~Sean~God is gracious~boy~
+
+english~Sebastian~Venerable~boy~
+
+english~Seth~Appointed~boy~
+
+english~Shane~God is gracious~boy~
+
+english~Shawn~God is gracious~boy~
+
+english~Simon~Listener~boy~
+
+english~Spencer~Dispenser of provisions~boy~
+
+english~Stanley~Stony clearing~boy~
+
+english~Stefan~Crown~boy~
+
+english~Stephen~Crown~boy~
+
+english~Steve~Crown~boy~
+
+english~Steven~Crown~boy~
+
+english~Stuart~Steward~boy~
+
+english~Tanner~Leather worker~boy~
+
+english~Taylor~Tailor~boy~
+
+english~Terrence~Smooth~boy~
+
+english~Terry~Ruler of the people~boy~
+
+english~Theodore~God's gift~boy~
+
+english~Thomas~Twin~boy~
+
+english~Timothy~Honoring God~boy~
+
+english~Todd~Fox~boy~
+
+english~Tom~Twin~boy~
+
+english~Tony~Priceless one~boy~
+
+english~Travis~Toll collector~boy~
+
+english~Trevor~Large village~boy~
+
+english~Troy~Foot soldier~boy~
+
+english~Tyler~Tile layer~boy~
+
+english~Tyrone~Land of Owen~boy~
+
+english~Victor~Conqueror~boy~
+
+english~Vincent~Conquering~boy~
+
+english~Wade~River crossing~boy~
+
+english~Wallace~Welshman~boy~
+
+english~Walter~Army ruler~boy~
+
+english~Warren~Defender~boy~
+
+english~Wayne~Wagon maker~boy~
+
+english~Wesley~Western meadow~boy~
+
+english~William~Strong-willed warrior~boy~
+
+english~Xavier~Bright, splendid~boy~
+
+english~Zachary~God has remembered~boy~
+
+english~Aaron~Exalted, enlightened~boy~
+
+english~Adrian~Rich~boy~
+
+english~Aiden~Little fire~boy~
+
+english~Alan~Rock, handsome~boy~
+
+english~Albert~Noble, bright~boy~
+
+english~Alec~Defender of mankind~boy~
+
+english~Alex~Defender of mankind~boy~
+
+english~Alexander~Defender of men~boy~
+
+english~Alfred~Wise counselor~boy~
+
+english~Allan~Rock, handsome~boy~
+
+english~Alonso~Eager for battle~boy~
+
+english~Alvin~Noble friend~boy~
+
+english~Amos~Burden~boy~
+
+english~Anatole~Sunrise~boy~
+
+english~Andre~Manly~boy~
+
+english~Andres~Manly~boy~
+
+english~Andy~Manly~boy~
+
+english~Angel~Messenger of God~boy~
+
+english~Anthony~Priceless one~boy~
+
+english~Anton~Priceless one~boy~
+
+english~Antonio~Priceless one~boy~
+
+english~Archie~Truly brave~boy~
+
+english~Ariel~Lion of God~boy~
+
+english~Arlo~Fortified hill~boy~
+
+english~Arnold~Eagle ruler~boy~
+
+english~Arthur~Bear man~boy~
+
+english~Arturo~Noble, courageous~boy~
+
+english~Ashton~Ash tree town~boy~
+
+english~August~Venerable~boy~
+
+english~Austin~Majestic~boy~
+
+english~Avery~Ruler of the elves~boy~
+
+english~Axel~Father of peace~boy~
+
+english~Ayaan~Gift of God~boy~
+
+english~Ayden~Fiery one~boy~
+
+english~Barrett~Bear-like~boy~
+
+english~Barry~Spear bearer~boy~
+
+english~Beau~Handsome~boy~
+
+english~Benjamin~Son of the right hand~boy~
+
+english~Bennett~Blessed~boy~
+
+english~Bernard~Brave as a bear~boy~
+
+english~Billy~Resolute protection~boy~
+
+english~Blake~Dark or fair~boy~
+
+english~Bobby~Bright fame~boy~
+
+english~Braden~Salmon~boy~
+
+english~Bradley~Broad clearing~boy~
+
+english~Brady~Spirited~boy~
+
+english~Brandon~Broom-covered hill~boy~
+
+english~Brendan~Prince~boy~
+
+english~Brennan~Little raven~boy~
+
+english~Brett~From Brittany~boy~
+
+english~Brian~Noble, strong~boy~
+
+english~Brody~Muddy place~boy~
+
+english~Bruno~Brown-haired~boy~
+
+english~Bryce~Speckled~boy~
+
+english~Byron~From the barns~boy~
+
+english~Caleb~Wholehearted~boy~
+
+english~Calvin~Bald~boy~
+
+english~Cameron~Bent nose~boy~
+
+english~Carl~Strong man~boy~
+
+english~Carlos~Free man~boy~
+
+english~Carter~Cart driver~boy~
+
+english~Casey~Brave~boy~
+
+english~Cedric~Kind, loved~boy~
+
+english~Chandler~Candle maker~boy~
+
+english~Charles~Free man~boy~
+
+english~Charlie~Free man~boy~
+
+english~Chase~Huntsman~boy~
+
+english~Chester~Fortress, walled town~boy~
+
+english~Chris~Bearer of Christ~boy~
+
+english~Christian~Christ follower~boy~
+
+english~Christopher~Bearer of Christ~boy~
+
+english~Clark~Clergyman~boy~
+
+english~Clayton~Clay town~boy~
+
+english~Cliff~Riverbank~boy~
+
+english~Clinton~Hill town~boy~
+
+english~Cody~Cushion~boy~
+
+english~Colby~Dark~boy~
+
+english~Cole~Victory of the people~boy~
+
+english~Colin~Victory of the people~boy~
+
+english~Colt~Young horse~boy~
+
+english~Colton~Coal town~boy~
+
+english~Conner~Lover of wolves~boy~
+
+english~Conrad~Brave counsel~boy~
+
+english~Cooper~Barrel maker~boy~
+
+english~Corey~Hollow~boy~
+
+english~Cormac~Charioteer~boy~
+
+english~Craig~Rocky hill~boy~
+
+english~Cristian~Christ follower~boy~
+
+english~Cruz~Cross~boy~
+
+english~Curtis~Courteous~boy~
+
+english~Cyrus~Sun~boy~
+
+english~Damian~To tame~boy~
+
+english~Damon~To tame~boy~
+
+english~Daniel~God is my judge~boy~
+
+english~Danny~God is my judge~boy~
+
+english~Dante~Enduring~boy~
+
+english~Darrell~Dear one~boy~
+
+english~Darren~Great~boy~
+
+english~Darryl~Dear one~boy~
+
+english~Darwin~Dear friend~boy~
+
+english~Dave~Beloved~boy~
+
+english~David~Beloved~boy~
+
+english~Davis~Beloved~boy~
+
+english~Dawson~Son of David~boy~
+
+english~Dean~Valley~boy~
+
+english~Declan~Man of prayer~boy~
+
+english~Delbert~Bright, shining~boy~
+
+english~Dennis~Wild, frenzy~boy~
+
+english~Derek~Ruler of the people~boy~
+
+english~Derrick~Ruler of the people~boy~
+
+english~Devin~Poet~boy~
+
+english~Diego~Supplanter~boy~
+
+english~Dillon~Faithful~boy~
+
+english~Dominick~Belonging to the Lord~boy~
+
+english~Don~World rule~boy~
+
+english~Donovan~Dark warrior~boy~
+
+english~Douglas~Dark water~boy~
+
+english~Drake~Dragon~boy~
+
+english~Drew~Manly~boy~
+
+english~Duke~Nobleman~boy~
+
+english~Duncan~Brown warrior~boy~
+
+english~Dustin~Valiant fighter~boy~
+
+english~Dwight~White field~boy~
+
+english~Dylan~Great tide~boy~
+
+english~Easton~East-facing place~boy~
+
+english~Eddie~Wealthy guardian~boy~
+
+english~Edgar~Fortunate and powerful~boy~
+
+english~Edmond~Wealthy protector~boy~
+
+english~Edward~Wealthy guardian~boy~
+
+english~Edwin~Wealthy friend~boy~
+
+english~Eli~Lifted up~boy~
+
+english~Elias~Yahweh is God~boy~
+
+english~Elijah~Yahweh is God~boy~
+
+english~Elliot~The Lord is my God~boy~
+
+english~Ellis~Benevolent~boy~
+
+english~Elmer~Noble and renowned~boy~
+
+english~Elton~Estate town~boy~
+
+english~Elvis~All-wise~boy~
+
+english~Emanuel~God is with us~boy~
+
+english~Emerson~Brave, powerful~boy~
+
+english~Emilio~Rival~boy~
+
+english~Emmanuel~God is with us~boy~
+
+english~Emmett~Industrious~boy~
+
+english~Enrique~Ruler of the home~boy~
+
+english~Eric~Ever ruler~boy~
+
+english~Ernest~Serious, determined~boy~
+
+english~Ethan~Strong, firm~boy~
+
+english~Eugene~Well-born~boy~
+
+english~Evan~God is gracious~boy~
+
+english~Everett~Brave, strong boar~boy~
+
+english~Ezekiel~God strengthens~boy~
+
+english~Fabian~Bean grower~boy~
+
+english~Fernando~Adventurous~boy~
+
+english~Finn~Fair, white~boy~
+
+english~Fletcher~Arrow maker~boy~
+
+english~Floyd~Gray-haired~boy~
+
+english~Flynn~Descendant of the red-haired one~boy~
+
+english~Forest~Forest, woods~boy~
+
+english~Francis~Free man~boy~
+
+english~Francisco~Free man~boy~
+
+english~Frank~Free man~boy~
+
+english~Frankie~Free man~boy~
+
+english~Franklin~Free man~boy~
+
+english~Frederick~Peaceful ruler~boy~
+
+english~Gabriel~God is my strength~boy~
+
+english~Gael~Stranger~boy~
+
+english~Gage~Pledge~boy~
+
+english~Garrett~Spear strength~boy~
+
+english~Gary~Spear~boy~
+
+english~Gavin~White hawk~boy~
+
+english~Gene~Well-born~boy~
+
+english~George~Farmer~boy~
+
+english~Gerald~Rule of the spear~boy~
+
+english~Giovanni~God is gracious~boy~
+
+english~Glen~Valley~boy~
+
+english~Gonzalo~Battle~boy~
+
+english~Gordon~Great hill~boy~
+
+english~Graham~Gravelly homestead~boy~
+
+english~Grant~Tall, big~boy~
+
+english~Grayson~Son of the steward~boy~
+
+english~Greg~Vigilant~boy~
+
+english~Gregory~Vigilant watchman~boy~
+
+english~Griffin~Strong lord~boy~
+
+english~Guillermo~Resolute protector~boy~
+
+english~Gus~Great, magnificent~boy~
+
+english~Guy~Guide, leader~boy~
+
+english~Hamilton~Beautiful mountain~boy~
+
+english~Hank~Ruler of the home~boy~
+
+english~Harley~Hare meadow~boy~
+
+english~Harold~Army ruler~boy~
+
+english~Harrison~Son of Harry~boy~
+
+english~Harry~Ruler of the household~boy~
+
+english~Harvey~Battle worthy~boy~
+
+english~Hector~Steadfast~boy~
+
+english~Henry~Ruler of the household~boy~
+
+english~Herb~Illustrious warrior~boy~
+
+english~Herman~Army man~boy~
+
+english~Holden~Deep valley
