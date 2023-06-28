@@ -6807,3 +6807,313 @@ Turkish ~ Yağız ~ Güçlü, yakışıklı (Strong, handsome) ~ boy ~
 Turkish ~ Yaman ~ Tehlikeli, cesur (Dangerous, brave) ~ boy ~
 
 Turkish ~ Yiğit ~ Cesur, kahraman (Brave, heroic) ~ boy ~
+
+Turkish ~ Ada ~ Adalet (Justice) ~ girl ~
+
+Turkish ~ Ayla ~ Ay ışığı (Moonlight) ~ girl ~
+
+Turkish ~ Aylin ~ Ay halesi (Moon halo) ~ girl ~
+
+Turkish ~ Ayşe ~ Yaşayan, hayatta olan (Alive, she who lives) ~ girl ~
+
+Turkish ~ Azra ~ Bakire, saf (Virgin, pure) ~ girl ~
+
+Turkish ~ Bahar ~ İlkbahar (Spring) ~ girl ~
+
+Turkish ~ Belgin ~ Berrak, sakin (Clear, serene) ~ girl ~
+
+Turkish ~ Belinay ~ Berrak ay (Clear moon) ~ girl ~
+
+Turkish ~ Bengü ~ Parlayan, ışıldayan (Shining, radiant) ~ girl ~
+
+Turkish ~ Berfin ~ İlkbahar zamanı (Springtime) ~ girl ~
+
+Turkish ~ Beste ~ Melodi (Melody) ~ girl ~
+
+Turkish ~ Cansu ~ Derin su (Deep water) ~ girl ~
+
+Turkish ~ Damla ~ Drop ~ girl ~
+
+Turkish ~ Defne ~ Defne ağacı (Laurel tree) ~ girl ~
+
+Turkish ~ Deniz ~ Deniz (Sea) ~ girl ~
+
+Turkish ~ Derin ~ Deep ~ girl ~
+
+Turkish ~ Derya ~ Deniz (Sea) ~ girl ~
+
+Turkish ~ Dilan ~ Sevgi dolu (Loving) ~ girl ~
+
+Turkish ~ Dilara ~ Büyüleyici (Captivating) ~ girl ~
+
+Turkish ~ Ecem ~ Ayın suyu (Water of the moon) ~ girl ~
+
+Turkish ~ Eda ~ Naziklik, tavır (Kindness, manner) ~ girl ~
+
+Turkish ~ Ece ~ Kraliçe (Queen) ~ girl ~
+
+Turkish ~ Ecrin ~ Değerli taş (Precious gem) ~ girl ~
+
+Turkish ~ Ela ~ Ela (Hazel) ~ girl ~
+
+Turkish ~ Elif ~ Arap alfabesinin ilk harfi (First letter of the Arabic alphabet) ~ girl ~
+
+Turkish ~ Elifsu ~ Hayat suyu (Water of life) ~ girl ~
+
+Turkish ~ Elvan ~ Çeşitli renklerde (In various colors) ~ girl ~
+
+Turkish ~ Eylül ~ Sonbahar (Autumn) ~ girl ~
+
+Turkish ~ Ezgi ~ Şarkı, beste (Song, melody) ~ girl ~
+
+Turkish ~ Fidan ~ Genç ağaç (Young tree) ~ girl ~
+
+Turkish ~ Gamze ~ Göz çukuru (Dimple) ~ girl ~
+
+Turkish ~ Gül ~ Rose ~ girl ~
+
+Turkish ~ Gülay ~ Gül ışığı (Rose light) ~ girl ~
+
+Turkish ~ Gülnaz ~ Nazlı gül (Coquettish rose) ~ girl ~
+
+Turkish ~ Gülnur ~ Işıklı gül (Radiant rose) ~ girl ~
+
+Turkish ~ Hande ~ Zevk, keyif (Pleasure) ~ girl ~
+
+Turkish ~ Hazal ~ Çok güzel (Very beautiful) ~ girl ~
+
+Turkish ~ Irmak ~ Akarsu (River) ~ girl ~
+
+Turkish ~ Beste ~ Melodi (Melody) ~ girl ~
+
+Turkish ~ Cemre ~ Sıcaklık dalgası (Warmth wave) ~ girl ~
+
+Turkish ~ Çağla ~ Genç meyve (Young fruit) ~ girl ~
+
+Turkish ~ Çiğdem ~ Early spring flower ~ girl ~
+
+Turkish ~ Deniz ~ Sea ~ girl ~
+
+Turkish ~ Derin ~ Deep ~ girl ~
+
+Turkish ~ Derya ~ Sea ~ girl ~
+
+Turkish ~ Dilan ~ Loving ~ girl ~
+
+Turkish ~ Dilara ~ Captivating ~ girl ~
+
+Turkish ~ Ecem ~ Water of the moon ~ girl ~
+
+Turkish ~ Eda ~ Kindness, manner ~ girl ~
+
+Turkish ~ Ece ~ Queen ~ girl ~
+
+Turkish ~ Elifnaz ~ Nazik, kibar (Gentle, elegant) ~ girl ~
+
+Turkish ~ Elvan ~ Renkli (Colorful) ~ girl ~
+
+Turkish ~ Eylül ~ Sonbahar (Autumn) ~ girl ~
+
+Turkish ~ Ezgi ~ Melodi (Melody) ~ girl ~
+
+Turkish ~ Fidan ~ Genç ağaç (Young tree) ~ girl ~
+
+Turkish ~ Gamze ~ Göz çukuru (Dimple) ~ girl ~
+
+Turkish ~ Gül ~ Güller (Roses) ~ girl ~
+
+Turkish ~ Gülay ~ Gül ışığı (Rose light) ~ girl ~
+
+Turkish ~ Gülnaz ~ Nazlı gül (Coquettish rose) ~ girl ~
+
+Turkish ~ Gülnur ~ Işıklı gül (Radiant rose) ~ girl ~
+
+Turkish ~ Hande ~ Zevk, keyif (Pleasure) ~ girl ~
+
+Turkish ~ Hazal ~ Çok güzel (Very beautiful) ~ girl ~
+
+Turkish ~ Irmak ~ Nehir (River) ~ girl ~
+
+Turkish ~ Beste ~ Melodi (Melody) ~ girl ~
+
+Turkish ~ Cemre ~ Sıcaklık dalgası (Warmth wave) ~ girl ~
+
+Turkish ~ Çağla ~ Genç meyve (Young fruit) ~ girl ~
+
+Turkish ~ Çiğdem ~ İlkbahar çiçeği (Early spring flower) ~ girl ~
+
+Turkish ~ Deniz ~ Deniz (Sea) ~ girl ~
+
+Turkish ~ Derin ~ Derin (Deep) ~ girl ~
+
+Turkish ~ Derya ~ Deniz (Sea) ~ girl ~
+
+Turkish ~ Dilan ~ Sevgi dolu (Full of love) ~ girl ~
+
+Turkish ~ Dilara ~ Büyüleyici (Captivating) ~ girl ~
+
+Turkish ~ Ecem ~ Ayın suyu (Water of the moon) ~ girl ~
+
+Turkish ~ Eda ~ Naziklik, nezaket (Grace, courtesy) ~ girl ~
+
+Turkish ~ Ece ~ Kraliçe (Queen) ~ girl ~
+
+Turkish ~ Ecrin ~ Değerli taş (Precious stone) ~ girl ~
+
+Turkish ~ Ela ~ Ela (Hazel) ~ girl ~
+
+Turkish ~ Elif ~ Arap alfabesinin ilk harfi (The first letter of the Arabic alphabet) ~ girl ~
+
+Turkish ~ Elifsu ~ Hayat suyu (Water of life) ~ girl ~
+
+Turkish ~ Elvan ~ Renkli (Colorful) ~ girl ~
+
+Turkish ~ Eylül ~ Sonbahar (Autumn) ~ girl ~
+
+Turkish ~ Ezgi ~ Müzik (Music) ~ girl ~
+
+Turkish ~ Fidan ~ Genç ağaç (Young tree) ~ girl ~
+
+Turkish ~ Gamze ~ Çukur (Dimple) ~ girl ~
+
+Turkish ~ Gül ~ Gül (Rose) ~ girl ~
+
+Turkish ~ Gülay ~ Gül ışığı (Rose light) ~ girl ~
+
+Turkish ~ Gülnaz ~ Nazlı gül (Coquettish rose) ~ girl ~
+
+Turkish ~ Gülnur ~ Işıklı gül (Radiant rose) ~ girl ~
+
+Turkish ~ Hande ~ Keyif (Pleasure) ~ girl ~
+
+Turkish ~ Hazal ~ Çok güzel (Very beautiful) ~ girl ~
+
+Turkish ~ Irmak ~ Nehir (River) ~ girl ~
+
+Turkish ~ Beste ~ Melodi (Melody) ~ girl ~
+
+Turkish ~ Cemre ~ Sıcaklık dalgası (Warmth wave) ~ girl ~
+
+Turkish ~ Çağla ~ Genç meyve (Young fruit) ~ girl ~
+
+Turkish ~ Çiğdem ~ İlkbahar çiçeği (Early spring flower) ~ girl ~
+
+Turkish ~ Deniz ~ Deniz (Sea) ~ girl ~
+
+Turkish ~ Derin ~ Derin (Deep) ~ girl ~
+
+Turkish ~ Derya ~ Deniz (Sea) ~ girl ~
+
+Turkish ~ Dilan ~ Sevgi dolu (Full of love) ~ girl ~
+
+Turkish ~ Dilara ~ Büyüleyici (Captivating) ~ girl ~
+
+Turkish ~ Esra ~ Yükselen (Rising) ~ girl ~
+
+Turkish ~ Evrim ~ Değişim (Change) ~ girl ~
+
+Turkish ~ Gülizar ~ Gül gibi (Like a rose) ~ girl ~
+
+Turkish ~ Gözde ~ Favori, seçkin (Favorite, select) ~ girl ~
+
+Turkish ~ Hale ~ Yükseklik (Height) ~ girl ~
+
+Turkish ~ İpek ~ İpek (Silk) ~ girl ~
+
+Turkish ~ İrem ~ Cennet bahçesi (Garden of Heaven) ~ girl ~
+
+Turkish ~ Kader ~ Destiny ~ girl ~
+
+Turkish ~ Leyla ~ Gece (Night) ~ girl ~
+
+Turkish ~ Melisa ~ Balsam yaprağı (Lemon balm leaf) ~ girl ~
+
+Turkish ~ Meltem ~ Hafif rüzgar (Gentle breeze) ~ girl ~
+
+Turkish ~ Merve ~ Mermer (Marble) ~ girl ~
+
+Turkish ~ Miray ~ Kutsal ay (Sacred moon) ~ girl ~
+
+Turkish ~ Merve ~ Mermer (Marble) ~ girl ~
+
+Turkish ~ Miray ~ Kutsal ay (Sacred moon) ~ girl ~
+
+Turkish ~ Nehir ~ Nehir (River) ~ girl ~
+
+Turkish ~ Nisa ~ Kadın (Woman) ~ girl ~
+
+Turkish ~ Nisan ~ Nisan (April) ~ girl ~
+
+Turkish ~ Özge ~ Diğer (Other) ~ girl ~
+
+Turkish ~ Özlem ~ Hasret, özleme (Longing, yearning) ~ girl ~
+
+Turkish ~ Pınar ~ Kaynak suyu (Spring water) ~ girl ~
+
+Turkish ~ Rüya ~ Dream ~ girl ~
+
+Turkish ~ Selin ~ Ay ışığı (Moonlight) ~ girl ~
+
+Turkish ~ Serra ~ Dağlar (Mountains) ~ girl ~
+
+Turkish ~ Sevinç ~ Mutluluk (Joy) ~ girl ~
+
+Turkish ~ Simay ~ Gümüş su (Silver water) ~ girl ~
+
+Turkish ~ Sude ~ İnci gibi (Like a pearl) ~ girl ~
+
+Turkish ~ Şebnem ~ Sabah çiyi (Morning dew) ~ girl ~
+
+Turkish ~ Tuğçe ~ Bayrak (Flag) ~ girl ~
+
+Turkish ~ Yaren ~ Dost, arkadaş (Friend, companion) ~ girl ~
+
+Turkish ~ Yasemin ~ Yasemin çiçeği (Jasmine flower) ~ girl ~
+
+Turkish ~ Yelda ~ Kış gecesi (Winter night) ~ girl ~
+
+Turkish ~ Yeliz ~ Çiçekli (Floral) ~ girl ~
+
+Turkish ~ Zehra ~ Aydınlık, parlak (Radiant, bright) ~ girl ~
+
+Turkish ~ Zeynep ~ Çobanın çiçeği (Shepherd's flower) ~ girl ~
+
+Turkish ~ Ada ~ Ada (Island) ~ girl ~
+
+Turkish ~ Ayça ~ Ay ışığı (Moonlight) ~ girl ~
+
+Turkish ~ Aylin ~ Ay ışığı (Moonlight) ~ girl ~
+
+Turkish ~ Ayşe ~ Hayat suyu (Water of life) ~ girl ~
+
+Turkish ~ Bengü ~ İçten, samimi (Sincere) ~ girl ~
+
+Turkish ~ Beyza ~ Beyaz (White) ~ girl ~
+
+Turkish ~ Canan ~ Sevgili (Beloved) ~ girl ~
+
+Turkish ~ Ceren ~ Dağların kraliçesi (Queen of the mountains) ~ girl ~
+
+Turkish ~ Damla ~ Su damlası (Water droplet) ~ girl ~
+
+Turkish ~ Defne ~ Defne ağacı (Laurel tree) ~ girl ~
+
+Turkish ~ Elif ~ Arap alfabesinin ilk harfi (The first letter of the Arabic alphabet) ~ girl ~
+
+Turkish ~ Eylül ~ Sonbahar (Autumn) ~ girl ~
+
+Turkish ~ Gözde ~ Favori (Favorite) ~ girl ~
+
+Turkish ~ Irmak ~ Nehir (River) ~ girl ~
+
+Turkish ~ Leyla ~ Gece (Night) ~ girl ~
+
+Turkish ~ Merve ~ Mermer (Marble) ~ girl ~
+
+Turkish ~ Nehir ~ Nehir (River) ~ girl ~
+
+Turkish ~ Pınar ~ Kaynak suyu (Spring water) ~ girl ~
+
+Turkish ~ Rüya ~ Dream ~ girl ~
+
+Turkish ~ Yasemin ~ Yasemin çiçeği (Jasmine flower) ~ girl ~
