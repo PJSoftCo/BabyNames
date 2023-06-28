@@ -4306,4 +4306,1004 @@ english ~ Herb ~ Illustrious warrior ~ boy ~
 
 english ~ Herman ~ Army man ~ boy ~ 
 
-english ~ Holden ~ Deep valley
+english ~ Holden ~ Deep valley ~ boy ~ 
+
+english ~ Abigail ~ Father's Joy ~ girl ~ 
+
+english ~ Ada ~ Noble, Happy ~ girl ~ 
+
+english ~ Adeline ~ Noble ~ girl ~ 
+
+english ~ Adriana ~ Dark, Rich ~ girl ~ 
+
+english ~ Agatha ~ Good, Kind ~ girl ~ 
+
+english ~ Aisha ~ Alive, Prosperous ~ girl ~ 
+
+english ~ Alana ~ Fair, Beautiful ~ girl ~ 
+
+english ~ Alessia ~ Defending Warrior ~ girl ~ 
+
+english ~ Alexia ~ Defender ~ girl ~ 
+
+english ~ Alice ~ Noble, Truth ~ girl ~ 
+
+english ~ Alicia ~ Noble, Kind ~ girl ~ 
+
+english ~ Alina ~ Noble, Beautiful ~ girl ~ 
+
+english ~ Alyssa ~ Noble, Graceful ~ girl ~ 
+
+english ~ Amanda ~ Lovable ~ girl ~ 
+
+english ~ Amelia ~ Industrious ~ girl ~ 
+
+english ~ Anastasia ~ Resurrection ~ girl ~ 
+
+english ~ Andrea ~ Brave, Strong ~ girl ~ 
+
+english ~ Angela ~ Messenger of God ~ girl ~ 
+
+english ~ Angelina ~ Angel, Messenger ~ girl ~ 
+
+english ~ Annabelle ~ Gracious, Beautiful ~ girl ~ 
+
+english ~ Annie ~ Gracious, Merciful ~ girl ~ 
+
+english ~ Arabella ~ Beautiful Lioness ~ girl ~ 
+
+english ~ Ariana ~ Very Holy ~ girl ~ 
+
+english ~ Aria ~ Air, Melody ~ girl ~ 
+
+english ~ Ariella ~ Lion of God ~ girl ~ 
+
+english ~ Ashley ~ Meadow of Ash Trees ~ girl ~ 
+
+english ~ Aubrey ~ Noble Ruler ~ girl ~ 
+
+english ~ Audrey ~ Noble Strength ~ girl ~ 
+
+english ~ Ava ~ Like a Bird ~ girl ~ 
+
+english ~ Avery ~ Ruler of the Elves ~ girl ~ 
+
+english ~ Beatrice ~ Bringer of Joy ~ girl ~ 
+
+english ~ Bella ~ Beautiful ~ girl ~ 
+
+english ~ Brianna ~ Strong, Virtuous ~ girl ~ 
+
+english ~ Brooke ~ Small Stream ~ girl ~ 
+
+english ~ Camila ~ Young Ceremonial Attendant ~ girl ~ 
+
+english ~ Caroline ~ Free Man ~ girl ~ 
+
+english ~ Cassandra ~ Shining Upon Men ~ girl ~ 
+
+english ~ Celeste ~ Heavenly ~ girl ~ 
+
+english ~ Charlotte ~ Free Man ~ girl ~ 
+
+english ~ Chloe ~ Blooming ~ girl ~ 
+
+english ~ Clara ~ Bright, Clear ~ girl ~ 
+
+english ~ Claudia ~ Lame ~ girl ~ 
+
+english ~ Daisy ~ Day's Eye ~ girl ~ 
+
+english ~ Danielle ~ God is My Judge ~ girl ~ 
+
+english ~ Delilah ~ Delicate, Weak ~ girl ~ 
+
+english ~ Destiny ~ Fate, Fortune ~ girl ~ 
+
+english ~ Diana ~ Divine ~ girl ~ 
+
+english ~ Elena ~ Shining Light ~ girl ~ 
+
+english ~ Eliza ~ God is My Oath ~ girl ~ 
+
+english ~ Elizabeth ~ God's Promise ~ girl ~ 
+
+english ~ Ella ~ Beautiful Fairy ~ girl ~ 
+
+english ~ Emily ~ Industrious ~ girl ~ 
+
+english ~ Emma ~ Universal ~ girl ~ 
+
+english ~ Erin ~ Ireland ~ girl ~ 
+
+english ~ Esme ~ Beloved ~ girl ~ 
+
+english ~ Eva ~ Life, Living One ~ girl ~ 
+
+english ~ Evelyn ~ Wished-for Child ~ girl ~ 
+
+english ~ Faith ~ Trust, Belief ~ girl ~ 
+
+english ~ Fiona ~ White, Fair ~ girl ~ 
+
+english ~ Gabriela ~ God is My Strength ~ girl ~ 
+
+english ~ Gabriella ~ God is My Strength ~ girl ~ 
+
+english ~ Gemma ~ Gem, Precious Stone ~ girl ~ 
+
+english ~ Genesis ~ Beginning ~ girl ~ 
+
+english ~ Georgia ~ Farmer ~ girl ~ 
+
+english ~ Grace ~ Elegance, Kindness ~ girl ~ 
+
+english ~ Hailey ~ Heroine ~ girl ~ 
+
+english ~ Hannah ~ Gracious, Grace of God ~ girl ~ 
+
+english ~ Harper ~ Harp Player ~ girl ~ 
+
+english ~ Hazel ~ The Hazel Tree ~ girl ~ 
+
+english ~ Isabella ~ God is My Oath ~ girl ~ 
+
+english ~ Isabelle ~ God is My Oath ~ girl ~ 
+
+english ~ Ivy ~ Faithfulness ~ girl ~ 
+
+english ~ Jade ~ Precious Stone ~ girl ~ 
+
+english ~ Jasmine ~ Gift from God ~ girl ~ 
+
+english ~ Jennifer ~ White Wave ~ girl ~ 
+
+english ~ Jessica ~ God Beholds ~ girl ~ 
+
+english ~ Joanna ~ God is Gracious ~ girl ~ 
+
+english ~ Jordan ~ To Flow Down ~ girl ~ 
+
+english ~ Josephine ~ God will Add ~ girl ~ 
+
+english ~ Julia ~ Youthful ~ girl ~ 
+
+english ~ Juliana ~ Youthful ~ girl ~ 
+
+english ~ Juliet ~ Youthful ~ girl ~ 
+
+english ~ Kara ~ Beloved ~ girl ~ 
+
+english ~ Katherine ~ Pure ~ girl ~ 
+
+english ~ Kayla ~ Pure, Keeper of the Keys ~ girl ~ 
+
+english ~ Kendall ~ Valley of the River Kent ~ girl ~ 
+
+english ~ Kennedy ~ Helmeted Chief ~ girl ~ 
+
+english ~ Kimberly ~ From the Meadow of the Royal Fortress ~ girl ~ 
+
+english ~ Kylie ~ Boomerang ~ girl ~ 
+
+english ~ Laila ~ Night, Beauty ~ girl ~ 
+
+english ~ Lana ~ Light ~ girl ~ 
+
+english ~ Laura ~ Laurel, Bay Tree ~ girl ~ 
+
+english ~ Layla ~ Night ~ girl ~ 
+
+english ~ Leah ~ Weary ~ girl ~ 
+
+english ~ Lily ~ Lily Flower ~ girl ~ 
+
+english ~ Lindsey ~ Lake Colony ~ girl ~ 
+
+english ~ Lucy ~ Light ~ girl ~ 
+
+english ~ Lydia ~ Woman from Lydia ~ girl ~ 
+
+english ~ Mackenzie ~ Child of the Wise Leader ~ girl ~ 
+
+english ~ Madeline ~ High Tower ~ girl ~ 
+
+english ~ Madison ~ Son of a Mighty Warrior ~ girl ~ 
+
+english ~ Makayla ~ Who is Like God? ~ girl ~ 
+
+english ~ Margaret ~ Pearl ~ girl ~ 
+
+english ~ Maria ~ Bitter ~ girl ~ 
+
+english ~ Mariana ~ Graceful Sea ~ girl ~ 
+
+english ~ Mary ~ Bitter ~ girl ~ 
+
+english ~ Maya ~ Illusion ~ girl ~ 
+
+english ~ Megan ~ Pearl ~ girl ~ 
+
+english ~ Melanie ~ Dark ~ girl ~ 
+
+english ~ Melissa ~ Honey Bee ~ girl ~ 
+
+english ~ Mia ~ Mine ~ girl ~ 
+
+english ~ Michelle ~ Who is Like God? ~ girl ~ 
+
+english ~ Molly ~ Bitter ~ girl ~ 
+
+english ~ Morgan ~ Sea Circle ~ girl ~ 
+
+english ~ Natalie ~ Born on Christmas Day ~ girl ~ 
+
+english ~ Natasha ~ Born on Christmas Day ~ girl ~ 
+
+english ~ Nicole ~ Victory of the People ~ girl ~ 
+
+english ~ Nina ~ Little Girl ~ girl ~ 
+
+english ~ Olivia ~ Olive Tree ~ girl ~ 
+
+english ~ Paige ~ Young Helper ~ girl ~ 
+
+english ~ Penelope ~ Weaver ~ girl ~ 
+
+english ~ Peyton ~ Noble ~ girl ~ 
+
+english ~ Phoebe ~ Radiant, Shining One ~ girl ~ 
+
+english ~ Piper ~ Flute Player ~ girl ~ 
+
+english ~ Rachel ~ Ewe ~ girl ~ 
+
+english ~ Rebecca ~ To Bind ~ girl ~ 
+
+english ~ Riley ~ Courageous ~ girl ~ 
+
+english ~ Ruby ~ Red Gemstone ~ girl ~ 
+
+english ~ Samantha ~ Listener ~ girl ~ 
+
+english ~ Sarah ~ Princess ~ girl ~ 
+
+english ~ Savannah ~ Grassy Plain ~ girl ~ 
+
+english ~ Scarlett ~ Red ~ girl ~ 
+
+english ~ Serenity ~ Calmness, Peace ~ girl ~ 
+
+english ~ Sierra ~ Mountain Range ~ girl ~ 
+
+english ~ Skylar ~ Scholar ~ girl ~ 
+
+english ~ Sophia ~ Wisdom ~ girl ~ 
+
+english ~ Stella ~ Star ~ girl ~ 
+
+english ~ Stephanie ~ Crown, Garland ~ girl ~ 
+
+english ~ Sydney ~ Wide Island ~ girl ~ 
+
+english ~ Taylor ~ Tailor ~ girl ~ 
+
+english ~ Valerie ~ Strong, Valiant ~ girl ~ 
+
+english ~ Vanessa ~ Butterfly ~ girl ~ 
+
+english ~ Veronica ~ True Image ~ girl ~ 
+
+english ~ Victoria ~ Victory ~ girl ~ 
+
+english ~ Vivian ~ Alive, Lively ~ girl ~ 
+
+english ~ Willow ~ Slender ~ girl ~ 
+
+english ~ Zoey ~ Life ~ girl ~ 
+
+english ~ Abbie ~ Father's Joy ~ girl ~ 
+
+english ~ Adalyn ~ Noble ~ girl ~ 
+
+english ~ Adelina ~ Noble ~ girl ~ 
+
+english ~ Adelyn ~ Noble ~ girl ~ 
+
+english ~ Adria ~ Dark, Rich ~ girl ~ 
+
+english ~ Adrianna ~ Dark, Rich ~ girl ~ 
+
+english ~ Aileen ~ Bright, Shining One ~ girl ~ 
+
+english ~ Ainsley ~ Solitary Field ~ girl ~ 
+
+english ~ Alaina ~ Fair, Beautiful ~ girl ~ 
+
+english ~ Alayna ~ Fair, Beautiful ~ girl ~ 
+
+english ~ Aleah ~ Rising, Ascending ~ girl ~ 
+
+english ~ Alejandra ~ Defender of Mankind ~ girl ~ 
+
+english ~ Alivia ~ Olive Tree ~ girl ~ 
+
+english ~ Allyson ~ Noble, Exalted ~ girl ~ 
+
+english ~ Alondra ~ Defender of Mankind ~ girl ~ 
+
+english ~ Alyson ~ Noble, Exalted ~ girl ~ 
+
+english ~ Amara ~ Eternal ~ girl ~ 
+
+english ~ Amari ~ Eternal ~ girl ~ 
+
+english ~ Amaya ~ Night Rain ~ girl ~ 
+
+english ~ Amber ~ Jewel ~ girl ~ 
+
+english ~ Amira ~ Princess, Leader ~ girl ~ 
+
+english ~ Amy ~ Beloved ~ girl ~ 
+
+english ~ Ana ~ Grace ~ girl ~ 
+
+english ~ Anabelle ~ Gracious, Beautiful ~ girl ~ 
+
+english ~ Angel ~ Messenger ~ girl ~ 
+
+english ~ Angela ~ Messenger of God ~ girl ~ 
+
+english ~ Angelica ~ Angel, Messenger ~ girl ~ 
+
+english ~ Angelique ~ Angel, Messenger ~ girl ~ 
+
+english ~ Annabella ~ Gracious, Beautiful ~ girl ~ 
+
+english ~ Annette ~ Gracious, Merciful ~ girl ~ 
+
+english ~ Annie ~ Gracious, Merciful ~ girl ~ 
+
+english ~ Anaya ~ Caring, Compassionate ~ girl ~ 
+
+english ~ Angelina ~ Angel, Messenger ~ girl ~ 
+
+english ~ Anita ~ Gracious, Merciful ~ girl ~ 
+
+english ~ Ann ~ Graceful ~ girl ~ 
+
+english ~ Anna ~ Graceful ~ girl ~ 
+
+english ~ Anika ~ Grace, Favor ~ girl ~ 
+
+english ~ Annika ~ Gracious ~ girl ~ 
+
+english ~ April ~ Opening, Beginning ~ girl ~ 
+
+english ~ Arabella ~ Beautiful Lioness ~ girl ~ 
+
+english ~ Aria ~ Air, Melody ~ girl ~ 
+
+english ~ Arianna ~ Very Holy ~ girl ~ 
+
+english ~ Ariel ~ Lion of God ~ girl ~ 
+
+english ~ Arlene ~ Pledge ~ girl ~ 
+
+english ~ Arya ~ Noble, Honorable ~ girl ~ 
+
+english ~ Ashley ~ Meadow of Ash Trees ~ girl ~ 
+
+english ~ Ashlyn ~ Dream, Vision ~ girl ~ 
+
+english ~ Aspen ~ Quaking Tree ~ girl ~ 
+
+english ~ Athena ~ Goddess of Wisdom ~ girl ~ 
+
+english ~ Aubree ~ Elf Ruler ~ girl ~ 
+
+english ~ Aubrie ~ Elf Ruler ~ girl ~ 
+
+english ~ Autumn ~ Season of Harvest ~ girl ~ 
+
+english ~ Ava ~ Like a Bird ~ girl ~ 
+
+english ~ Aviana ~ Like a Bird ~ girl ~ 
+
+english ~ Aylin ~ Moon Halo ~ girl ~ 
+
+english ~ Bailey ~ Steward, Public Official ~ girl ~ 
+
+english ~ Bethany ~ House of Figs ~ girl ~ 
+
+english ~ Bianca ~ White, Pure ~ girl ~ 
+
+english ~ Blake ~ Fair Complexioned ~ girl ~ 
+
+english ~ Blakely ~ Dark Meadow ~ girl ~ 
+
+english ~ Bonnie ~ Beautiful ~ girl ~ 
+
+english ~ Brenda ~ Sword ~ girl ~ 
+
+english ~ Briana ~ Strong, Virtuous ~ girl ~ 
+
+english ~ Bridget ~ Strength, Power ~ girl ~ 
+
+english ~ Bristol ~ Place Name ~ girl ~ 
+
+english ~ Brittany ~ From Britain ~ girl ~ 
+
+english ~ Brooklynn ~ Brook, Stream ~ girl ~ 
+
+english ~ Brynn ~ Hill ~ girl ~ 
+
+english ~ Cadence ~ Rhythm, Musical Beat ~ girl ~ 
+
+english ~ Caitlin ~ Pure ~ girl ~ 
+
+english ~ Cali ~ Beautiful ~ girl ~ 
+
+english ~ Callie ~ Beautiful ~ girl ~ 
+
+english ~ Camilla ~ Young Ceremonial Attendant ~ girl ~ 
+
+english ~ Candice ~ Pure ~ girl ~ 
+
+english ~ Cara ~ Beloved ~ girl ~ 
+
+english ~ Carly ~ Free Woman ~ girl ~ 
+
+english ~ Carmen ~ Song ~ girl ~ 
+
+english ~ Carol ~ Song of Joy ~ girl ~ 
+
+english ~ Caroline ~ Free Man ~ girl ~ 
+
+english ~ Carolyn ~ Free Woman ~ girl ~ 
+
+english ~ Casey ~ Brave ~ girl ~ 
+
+english ~ Cassandra ~ Shining Upon Men ~ girl ~ 
+
+english ~ Cassidy ~ Curly-haired ~ girl ~ 
+
+english ~ Catalina ~ Pure ~ girl ~ 
+
+english ~ Catherine ~ Pure ~ girl ~ 
+
+english ~ Cecelia ~ Blind ~ girl ~ 
+
+english ~ Celeste ~ Heavenly ~ girl ~ 
+
+english ~ Celina ~ Heavenly ~ girl ~ 
+
+english ~ Charity ~ Love, Kindness ~ girl ~ 
+
+english ~ Charlee ~ Free Woman ~ girl ~ 
+
+english ~ Charlotte ~ Free Woman ~ girl ~ 
+
+english ~ Chelsea ~ Port ~ girl ~ 
+
+english ~ Cherish ~ To Treasure ~ girl ~ 
+
+english ~ Cheryl ~ Beloved ~ girl ~ 
+
+english ~ Cheyenne ~ Unintelligible Speaker ~ girl ~ 
+
+english ~ Christina ~ Christian ~ girl ~ 
+
+english ~ Christine ~ Christian ~ girl ~ 
+
+english ~ Cindy ~ Moon ~ girl ~ 
+
+english ~ Claire ~ Bright, Clear ~ girl ~ 
+
+english ~ Clara ~ Bright, Clear ~ girl ~ 
+
+english ~ Clare ~ Bright, Clear ~ girl ~ 
+
+english ~ Clarissa ~ Bright, Clear ~ girl ~ 
+
+english ~ Claudia ~ Lame ~ girl ~ 
+
+english ~ Clementine ~ Mild, Merciful ~ girl ~ 
+
+english ~ Colette ~ Victorious ~ girl ~ 
+
+english ~ Colleen ~ Girl ~ girl ~ 
+
+english ~ Cora ~ Maiden ~ girl ~ 
+
+english ~ Coraline ~ Coral ~ girl ~ 
+
+english ~ Corinne ~ Maiden ~ girl ~ 
+
+english ~ Courtney ~ Court Attendant ~ girl ~ 
+
+english ~ Crystal ~ Clear, Brilliant Glass ~ girl ~ 
+
+english ~ Cynthia ~ Moon Goddess ~ girl ~ 
+
+english ~ Dahlia ~ Valley ~ girl ~ 
+
+english ~ Daisy ~ Day's Eye ~ girl ~ 
+
+english ~ Dakota ~ Friendly One ~ girl ~ 
+
+english ~ Dana ~ God is My Judge ~ girl ~ 
+
+english ~ Daniela ~ God is My Judge ~ girl ~ 
+
+english ~ Danika ~ Morning Star ~ girl ~ 
+
+english ~ Daphne ~ Laurel Tree ~ girl ~ 
+
+english ~ Darlene ~ Tenderly Loved ~ girl ~ 
+
+english ~ Davina ~ Beloved ~ girl ~ 
+
+english ~ Dawn ~ Daybreak ~ girl ~ 
+
+english ~ Deborah ~ Bee ~ girl ~ 
+
+english ~ Delaney ~ From the Elder Tree Meadow ~ girl ~ 
+
+english ~ Delilah ~ Delicate, Weak ~ girl ~ 
+
+english ~ Denise ~ Follower of Dionysius ~ girl ~ 
+
+english ~ Desiree ~ Desired ~ girl ~ 
+
+english ~ Destiny ~ Fate, Fortune ~ girl ~ 
+
+english ~ Diana ~ Divine ~ girl ~ 
+
+english ~ Diane ~ Divine ~ girl ~ 
+
+english ~ Dina ~ Avenged ~ girl ~ 
+
+english ~ Dominique ~ Belonging to the Lord ~ girl ~ 
+
+english ~ Donna ~ Lady ~ girl ~ 
+
+english ~ Dorothy ~ Gift of God ~ girl ~ 
+
+english ~ Eden ~ Delight ~ girl ~ 
+
+english ~ Edith ~ Prosperous in War ~ girl ~ 
+
+english ~ Edna ~ Delight, Pleasure ~ girl ~ 
+
+english ~ Elaine ~ Bright, Shining One ~ girl ~ 
+
+english ~ Eleanor ~ Bright, Shining One ~ girl ~ 
+
+english ~ Elena ~ Shining Light ~ girl ~ 
+
+english ~ Elisa ~ God is My Oath ~ girl ~ 
+
+english ~ Elise ~ God is My Oath ~ girl ~ 
+
+english ~ Eliza ~ God is My Oath ~ girl ~ 
+
+english ~ Elizabeth ~ God's Promise ~ girl ~ 
+
+english ~ Ella ~ Beautiful Fairy ~ girl ~ 
+
+english ~ Elle ~ She ~ girl ~ 
+
+english ~ Ellie ~ Bright, Shining One ~ girl ~ 
+
+english ~ Elsa ~ God is My Oath ~ girl ~ 
+
+english ~ Elsie ~ God is My Oath ~ girl ~ 
+
+english ~ Ember ~ Spark, Burning Low ~ girl ~ 
+
+english ~ Emilie ~ Rival, Eager ~ girl ~ 
+
+english ~ Emily ~ Industrious ~ girl ~ 
+
+english ~ Emma ~ Universal ~ girl ~ 
+
+english ~ Emmy ~ Universal ~ girl ~ 
+
+english ~ Erica ~ Ever-Powerful ~ girl ~ 
+
+english ~ Erin ~ Ireland ~ girl ~ 
+
+english ~ Esmeralda ~ Emerald ~ girl ~ 
+
+english ~ Esperanza ~ Hope ~ girl ~ 
+
+english ~ Esther ~ Star ~ girl ~ 
+
+english ~ Eva ~ Life, Living One ~ girl ~ 
+
+english ~ Evelyn ~ Wished-for Child ~ girl ~ 
+
+english ~ Faith ~ Trust, Belief ~ girl ~ 
+
+english ~ Felicity ~ Happiness ~ girl ~ 
+
+english ~ Fernanda ~ Journey, Adventure ~ girl ~ 
+
+english ~ Fiona ~ White, Fair ~ girl ~ 
+
+english ~ Flora ~ Flower ~ girl ~ 
+
+english ~ Florence ~ Flourishing ~ girl ~ 
+
+english ~ Francesca ~ Free ~ girl ~ 
+
+english ~ Gabriela ~ God is My Strength ~ girl ~ 
+
+english ~ Gabrielle ~ God is My Strength ~ girl ~ 
+
+english ~ Gia ~ God's Gracious Gift ~ girl ~ 
+
+english ~ Gianna ~ God is Gracious ~ girl ~ 
+
+english ~ Giselle ~ Pledge ~ girl ~ 
+
+english ~ Gloria ~ Glory ~ girl ~ 
+
+english ~ Grace ~ Elegance, Kindness ~ girl ~ 
+
+english ~ Gracie ~ Elegance, Kindness ~ girl ~ 
+
+english ~ Gwendolyn ~ White Circle ~ girl ~ 
+
+english ~ Hadley ~ Heather Field ~ girl ~ 
+
+english ~ Hailey ~ Heroine ~ girl ~ 
+
+english ~ Halle ~ From the Hall ~ girl ~ 
+
+english ~ Hannah ~ Grace of God ~ girl ~ 
+
+english ~ Harper ~ Harp Player ~ girl ~ 
+
+english ~ Haven ~ Safe Place ~ girl ~ 
+
+english ~ Hayley ~ Heroine ~ girl ~ 
+
+english ~ Hazel ~ The Hazel Tree ~ girl ~ 
+
+english ~ Heather ~ Flower of the Heath ~ girl ~ 
+
+english ~ Heidi ~ Noble, Kind ~ girl ~ 
+
+english ~ Helen ~ Bright, Shining One ~ girl ~ 
+
+english ~ Helena ~ Bright, Shining One ~ girl ~ 
+
+english ~ Hope ~ Hope ~ girl ~ 
+
+english ~ Iliana ~ Bright, Shining One ~ girl ~ 
+
+english ~ Imogen ~ Beloved Child ~ girl ~ 
+
+english ~ Indigo ~ Blue Dye ~ girl ~ 
+
+english ~ Ingrid ~ Beautiful ~ girl ~ 
+
+english ~ Irene ~ Peace ~ girl ~ 
+
+english ~ Iris ~ Rainbow ~ girl ~ 
+
+english ~ Isabel ~ God is My Oath ~ girl ~ 
+
+english ~ Isabella ~ God is My Oath ~ girl ~ 
+
+english ~ Isabelle ~ God is My Oath ~ girl ~ 
+
+english ~ Ivy ~ Faithfulness ~ girl ~ 
+
+english ~ Izabella ~ God is My Oath ~ girl ~ 
+
+english ~ Jade ~ Precious Stone ~ girl ~ 
+
+english ~ Jaida ~ He Knows ~ girl ~ 
+
+english ~ Jana ~ God's Gracious Gift ~ girl ~ 
+
+english ~ Jane ~ God's Gracious Gift ~ girl ~ 
+
+english ~ Janelle ~ God is Gracious ~ girl ~ 
+
+english ~ Jasmine ~ Gift from God ~ girl ~ 
+
+english ~ Jayda ~ Precious Stone ~ girl ~ 
+
+english ~ Jayla ~ Jay Bird ~ girl ~ 
+
+english ~ Jaylee ~ Jay Bird ~ girl ~ 
+
+english ~ Jenna ~ White, Fair ~ girl ~ 
+
+english ~ Jennifer ~ White Wave ~ girl ~ 
+
+english ~ Jessica ~ God Beholds ~ girl ~ 
+
+english ~ Jillian ~ Youthful ~ girl ~ 
+
+english ~ Joanna ~ God is Gracious ~ girl ~ 
+
+english ~ Jocelyn ~ Joyous ~ girl ~ 
+
+english ~ Jolie ~ Pretty ~ girl ~ 
+
+english ~ Jordan ~ To Flow Down ~ girl ~ 
+
+english ~ Jordyn ~ To Flow Down ~ girl ~ 
+
+english ~ Josephine ~ God will Add ~ girl ~ 
+
+english ~ Josie ~ God will Add ~ girl ~ 
+
+english ~ Journey ~ Trip, Voyage ~ girl ~ 
+
+english ~ Joy ~ Joy ~ girl ~ 
+
+english ~ Judith ~ Woman of Judea ~ girl ~ 
+
+english ~ Julia ~ Youthful ~ girl ~ 
+
+english ~ Juliana ~ Youthful ~ girl ~ 
+
+english ~ Julie ~ Youthful ~ girl ~ 
+
+english ~ Juliet ~ Youthful ~ girl ~ 
+
+english ~ Juliette ~ Youthful ~ girl ~ 
+
+english ~ Julissa ~ Youthful ~ girl ~ 
+
+english ~ June ~ June ~ girl ~ 
+
+english ~ Juniper ~ Evergreen Tree ~ girl ~ 
+
+english ~ Kaitlyn ~ Pure ~ girl ~ 
+
+english ~ Kaleigh ~ Pure ~ girl ~ 
+
+english ~ Kali ~ Goddess ~ girl ~ 
+
+english ~ Kallie ~ Beautiful ~ girl ~ 
+
+english ~ Kameron ~ Crooked Nose ~ girl ~ 
+
+english ~ Kamryn ~ Crooked Nose ~ girl ~ 
+
+english ~ Kara ~ Beloved ~ girl ~ 
+
+english ~ Karen ~ Pure ~ girl ~ 
+
+english ~ Karina ~ Pure ~ girl ~ 
+
+english ~ Karla ~ Strong, Feminine ~ girl ~ 
+
+english ~ Kassandra ~ Shining Upon Men ~ girl ~ 
+
+english ~ Kate ~ Pure ~ girl ~ 
+
+english ~ Katelyn ~ Pure ~ girl ~ 
+
+english ~ Katherine ~ Pure ~ girl ~ 
+
+english ~ Kathryn ~ Pure ~ girl ~ 
+
+english ~ Katie ~ Pure ~ girl ~ 
+
+english ~ Kayla ~ Pure ~ girl ~ 
+
+english ~ Kaylee ~ Pure ~ girl ~ 
+
+english ~ Keira ~ Dark-Haired ~ girl ~ 
+
+english ~ Kendall ~ Valley of the River Kent ~ girl ~ 
+
+english ~ Kennedy ~ Helmeted Chief ~ girl ~ 
+
+english ~ Kenzie ~ Light-Skinned ~ girl ~ 
+
+english ~ Kiera ~ Dark-Haired ~ girl ~ 
+
+english ~ Kierra ~ Dark-Haired ~ girl ~ 
+
+english ~ Kimberly ~ From the Meadow of the Royal Fortress ~ girl ~ 
+
+english ~ Kinsley ~ King's Meadow ~ girl ~ 
+
+english ~ Kirsten ~ Anointed ~ girl ~ 
+
+english ~ Kyla ~ Beautiful ~ girl ~ 
+
+english ~ Kylee ~ Narrow, Strait ~ girl ~ 
+
+english ~ Kylie ~ Boomerang ~ girl ~ 
+
+english ~ Lacey ~ Lace-Like ~ girl ~ 
+
+english ~ Lana ~ Light ~ girl ~ 
+
+english ~ Lara ~ Famous ~ girl ~ 
+
+english ~ Laura ~ Laurel, Bay Tree ~ girl ~ 
+
+english ~ Lauren ~ Laurel, Bay Tree ~ girl ~ 
+
+english ~ Layla ~ Night ~ girl ~ 
+
+english ~ Lea ~ Weary ~ girl ~ 
+
+english ~ Leah ~ Weary ~ girl ~ 
+
+english ~ Leila ~ Dark Beauty ~ girl ~ 
+
+english ~ Lena ~ Light ~ girl ~ 
+
+english ~ Leslie ~ Holly Garden ~ girl ~ 
+
+english ~ Lexi ~ Defender of Mankind ~ girl ~ 
+
+english ~ Lexie ~ Defender of Mankind ~ girl ~ 
+
+english ~ Lia ~ Weary ~ girl ~ 
+
+english ~ Lila ~ Night ~ girl ~ 
+
+english ~ Lily ~ Lily Flower ~ girl ~ 
+
+english ~ Linda ~ Pretty One ~ girl ~ 
+
+english ~ Lindsay ~ Lake Colony ~ girl ~ 
+
+english ~ Lindsey ~ Lake Colony ~ girl ~ 
+
+english ~ Lisa ~ God is My Oath ~ girl ~ 
+
+english ~ Livia ~ Olive Tree ~ girl ~ 
+
+english ~ Lizbeth ~ God is My Oath ~ girl ~ 
+
+english ~ Logan ~ Small Cove ~ girl ~ 
+
+english ~ Lola ~ Sorrows ~ girl ~ 
+
+english ~ London ~ From the Great River ~ girl ~ 
+
+english ~ Lorelei ~ Alluring ~ girl ~ 
+
+english ~ Lorraine ~ Kingdom of Lothar ~ girl ~ 
+
+english ~ Louisa ~ Renowned Warrior ~ girl ~ 
+
+english ~ Lucia ~ Light ~ girl ~ 
+
+english ~ Lucille ~ Light ~ girl ~ 
+
+english ~ Lucy ~ Light ~ girl ~ 
+
+english ~ Lydia ~ Woman from Lydia ~ girl ~ 
+
+english ~ Lyric ~ Songlike ~ girl ~ 
+
+english ~ Mackenzie ~ Child of the Wise Leader ~ girl ~ 
+
+english ~ Macy ~ Weapon ~ girl ~ 
+
+english ~ Madeline ~ High Tower ~ girl ~ 
+
+english ~ Madelyn ~ High Tower ~ girl ~ 
+
+english ~ Madison ~ Son of a Mighty Warrior ~ girl ~ 
+
+english ~ Maggie ~ Pearl ~ girl ~ 
+
+english ~ Makayla ~ Who is Like God? ~ girl ~ 
+
+english ~ Malia ~ Bitter ~ girl ~ 
+
+english ~ Makenzie ~ Child of the Wise Leader ~ girl ~ 
+
+english ~ Mallory ~ Unfortunate ~ girl ~ 
+
+english ~ Mandy ~ Worthy of Love ~ girl ~ 
+
+english ~ Mara ~ Bitter ~ girl ~ 
+
+english ~ Margaret ~ Pearl ~ girl ~ 
+
+english ~ Maria ~ Bitter ~ girl ~ 
+
+english ~ Mariana ~ Graceful Sea ~ girl ~ 
+
+english ~ Mariah ~ Bitter ~ girl ~ 
+
+english ~ Marie ~ Bitter ~ girl ~ 
+
+english ~ Marilyn ~ Sea of Bitterness ~ girl ~ 
+
+english ~ Marissa ~ Of the Sea ~ girl ~ 
+
+english ~ Marlee ~ From the Lake Meadow ~ girl ~ 
+
+english ~ Marley ~ Pleasant Meadow ~ girl ~ 
+
+english ~ Mary ~ Bitter ~ girl ~ 
+
+english ~ Maura ~ Dark-Haired ~ girl ~ 
+
+english ~ Maya ~ Illusion ~ girl ~ 
+
+english ~ Mayra ~ Sea of Bitterness ~ girl ~ 
+
+english ~ Megan ~ Pearl ~ girl ~ 
+
+english ~ Meghan ~ Pearl ~ girl ~ 
+
+english ~ Melina ~ Honey ~ girl ~ 
+
+english ~ Melissa ~ Honey Bee ~ girl ~ 
+
+english ~ Mia ~ Mine ~ girl ~ 
+
+english ~ Michaela ~ Who is Like God? ~ girl ~ 
+
+english ~ Michelle ~ Who is Like God? ~ girl ~ 
+
+english ~ Mikayla ~ Who is Like God? ~ girl ~ 
+
+english ~ Mila ~ Gracious ~ girl ~ 
+
+english ~ Miley ~ Smiley ~ girl ~ 
+
+english ~ Miranda ~ Admirable ~ girl ~ 
+
+english ~ Miriam ~ Wished-for Child ~ girl ~ 
+
+english ~ Molly ~ Bitter ~ girl ~ 
+
+english ~ Morgan ~ Sea Circle ~ girl ~ 
+
+english ~ Mya ~ Mine ~ girl ~ 
+
+english ~ Nadia ~ Hope ~ girl ~ 
+
+english ~ Naomi ~ Pleasantness ~ girl ~ 
+
+english ~ Natalia ~ Born on Christmas Day ~ girl ~ 
+
+english ~ Natalie ~ Born on Christmas Day ~ girl ~ 
+
+english ~ Natasha ~ Born on Christmas Day ~ girl ~ 
+
+english ~ Nia ~ Purpose ~ girl ~ 
+
+english ~ Nicole ~ Victory of the People ~ girl ~ 
+
+english ~ Nina ~ Little Girl ~ girl ~ 
+
+english ~ Noelle ~ Christmas ~ girl ~ 
+
+english ~ Nora ~ Honor ~ girl ~ 
+
+english ~ Nova ~ New ~ girl ~ 
+
+english ~ Olivia ~ Olive Tree ~ girl ~ 
+
+english ~ Paige ~ Young Helper ~ girl ~ 
+
+english ~ Paisley ~ Church ~ girl ~ 
+
+english ~ Parker ~ Park Keeper ~ girl ~ 
+
+english ~ Payton ~ Noble's Town ~ girl ~ 
+
+english ~ Penelope ~ Weaver ~ girl ~ 
+
+english ~ Peyton ~ Noble ~ girl ~
