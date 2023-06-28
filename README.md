@@ -5807,3 +5807,403 @@ english ~ Peyton ~ Noble ~ girl ~
 عربی  ~ نعيم (Na'im) ~ النعيم والسعادة (Bliss and happiness) ~ boy ~
 
 عربی  ~ حسام (Hussam) ~ السيف أو القاطع (Sword or cutter) ~ boy ~
+
+عربی  ~ زهرة (Zahra) ~ الزهرة (Flower) ~ girl ~
+
+عربی  ~ جميلة (Jameela) ~ الجميلة (Beautiful) ~ girl ~
+
+عربی  ~ سما (Sama) ~ السماء (Sky) ~ girl ~
+
+عربی  ~ رقية (Raqia) ~ الرفيعة المرتبة (High-ranked) ~ girl ~
+
+عربی  ~ هبة (Hiba) ~ الهدية (Gift) ~ girl ~
+
+عربی  ~ شهد (Shahad) ~ العسل (Honey) ~ girl ~
+
+عربی  ~ فرحة (Farah) ~ الفرحة (Joy) ~ girl ~
+
+عربی  ~ لين (Leen) ~ النعومة (Tender) ~ girl ~
+
+عربی  ~ روز (Rouz) ~ النهار (Day) ~ girl ~
+
+عربی  ~ غزل (Ghazal) ~ قصيدة حب (Love poem) ~ girl ~
+
+عربی  ~ سارة (Sara) ~ سعيدة (Happy) ~ girl ~
+
+عربی  ~ ندى (Nada) ~ الندى (Dew) ~ girl ~
+
+عربی  ~ صبا (Saba) ~ نسيم الصباح (Morning breeze) ~ girl ~
+
+عربی  ~ هديل (Hadeel) ~ نعيق الحمام (Cooing of pigeons) ~ girl ~
+
+عربی  ~ فريدة (Farida) ~ فريدة من نوعها (Unique) ~ girl ~
+
+عربی  ~ لمى (Lama) ~ مشعة (Radiant) ~ girl ~
+
+عربی  ~ ريم (Reem) ~ الغزال (Gazelle) ~ girl ~
+
+عربی  ~ سلمى (Salma) ~ السالمة (Safe) ~ girl ~
+
+عربی  ~ نورة (Nora) ~ النور (Light) ~ girl ~
+
+عربی  ~ شهد (Shahad) ~ الشهد (Honey) ~ girl ~
+
+عربی  ~ ميس (Mais) ~ السمرة (Dark-skinned) ~ girl ~
+
+عربی  ~ لميا (Lamia) ~ الدمى (Doll) ~ girl ~
+
+عربی  ~ زينة (Zeina) ~ الزينة (Adornment) ~ girl ~
+
+عربی  ~ جود (Joud) ~ الكرم (Generosity) ~ girl ~
+
+عربی  ~ لينا (Lina) ~ النعومة (Tenderness) ~ girl ~
+
+عربی  ~ رنا (Rana) ~ الغناء (Singing) ~ girl ~
+
+عربی  ~ دانة (Dana) ~ اللؤلؤة (Pearl) ~ girl ~
+
+عربی  ~ رواء (Rawa) ~ الرواء (Satiety) ~ girl ~
+
+عربی  ~ سليمة (Salima) ~ السلامة (Safety) ~ girl ~
+
+عربی  ~ سمر (Samar) ~ اللون الداكن (Dark color) ~ girl ~
+
+عربی  ~ نورهان (Nourhan) ~ النور الساطع (Shining light) ~ girl ~
+
+عربی  ~ فاطمة (Fatima) ~ العفيفة (Chaste) ~ girl ~
+
+عربی  ~ ياسمين (Yasmin) ~ الياسمين (Jasmine) ~ girl ~
+
+عربی  ~ هديل (Hadeel) ~ الهديل (Cooing of pigeons) ~ girl ~
+
+عربی  ~ زهراء (Zahraa) ~ الزهراء (Radiant) ~ girl ~
+
+عربی  ~ علا (Alaa) ~ الرفعة (Elevation) ~ girl ~
+
+عربی  ~ شروق (Shorouq) ~ الشروق (Sunrise) ~ girl ~
+
+عربی  ~ رغد (Raghad) ~ الرغد (Delight) ~ girl ~
+
+عربی  ~ حلا (Hala) ~ الحلاوة (Sweetness) ~ girl ~
+
+عربی  ~ لارا (Lara) ~ الشجاعة (Bravery) ~ girl ~
+
+عربی  ~ ريناد (Rinad) ~ الشجن (Melancholy) ~ girl ~
+
+عربی  ~ هنا (Hana) ~ هنا (Here) ~ girl ~
+
+عربی  ~ رحمة (Rahma) ~ الرحمة (Mercy) ~ girl ~
+
+عربی  ~ سميرة (Samira) ~ الرفيقة الجميلة (Beautiful companion) ~ girl ~
+
+عربی  ~ دعاء (Duaa) ~ الدعاء (Prayer) ~ girl ~
+
+عربی  ~ رنيم (Raneem) ~ الرنين (Melody) ~ girl ~
+
+عربی  ~ مي (May) ~ الماء (Water) ~ girl ~
+
+عربی  ~ ندا (Nada) ~ النداء (Call) ~ girl ~
+
+عربی  ~ صفاء (Safaa) ~ الصفاء (Purity) ~ girl ~
+
+عربی  ~ طيف (Tayf) ~ الطيف (Spectrum) ~ girl ~
+
+عربی  ~ جنى (Jannah) ~ الجنة (Paradise) ~ girl ~
+
+عربی  ~ سلوى (Sulwa) ~ السلامة (Safety) ~ girl ~
+
+عربی  ~ ميرا (Mira) ~ النظرة (Gaze) ~ girl ~
+
+عربی  ~ وسمية (Wasmiyah) ~ الحديثة (Eloquent) ~ girl ~
+
+عربی  ~ سحر (Sahar) ~ السحر (Magic) ~ girl ~
+
+عربی  ~ منى (Muna) ~ الأمنية (Wish) ~ girl ~
+
+عربی  ~ روزانا (Rozana) ~ الوردة البيضاء (White rose) ~ girl ~
+
+عربی  ~ نهى (Noha) ~ النهي (Prohibition) ~ girl ~
+
+عربی  ~ لولا (Lula) ~ الآه (Sigh) ~ girl ~
+
+عربی  ~ هالة (Hala) ~ الهالة (Halo) ~ girl ~
+
+عربی  ~ طيبة (Tayyiba) ~ الطيبة (Goodness) ~ girl ~
+
+عربی  ~ عزة (Azza) ~ العزة (Might) ~ girl ~
+
+عربی  ~ رباب (Rabab) ~ آلة موسيقية (Musical instrument) ~ girl ~
+
+عربی  ~ رغدة (Raghdah) ~ الرغد (Satisfaction) ~ girl ~
+
+عربی  ~ مها (Maha) ~ الضوء (Radiance) ~ girl ~
+
+عربی  ~ نوره (Nurah) ~ النور (Light) ~ girl ~
+
+عربی  ~ يارا (Yara) ~ الجارحة (Sharp) ~ girl ~
+
+عربی  ~ حنان (Hanan) ~ الرحمة (Tenderness) ~ girl ~
+
+عربی  ~ شروق (Shurooq) ~ الشروق (Sunrise) ~ girl ~
+
+عربی  ~ لمى (Lama) ~ الظلام (Darkness) ~ girl ~
+
+عربی  ~ دانية (Daniyah) ~ الحكيمة (Wise) ~ girl ~
+
+عربی  ~ سوسن (Sawsan) ~ نبات السوسن (Lily) ~ girl ~
+
+عربی  ~ رند (Randa) ~ الرقة (Tenderness) ~ girl ~
+
+عربی  ~ فداء (Fidaa) ~ الفداء (Sacrifice) ~ girl ~
+
+عربی  ~ لبنى (Lubna) ~ اللبن (Milk) ~ girl ~
+
+عربی  ~ صفية (Safiya) ~ الصفاء (Purity) ~ girl ~
+
+عربی  ~ غيداء (Ghaydaa) ~ الغيداء (Graceful) ~ girl ~
+
+عربی  ~ هند (Hind) ~ الهند (India) ~ girl ~
+
+عربی  ~ روند (Rond) ~ الغناء (Singing) ~ girl ~
+
+عربی  ~ مرام (Maram) ~ الرغبة (Desire) ~ girl ~
+
+عربی  ~ ندى (Nada) ~ الندى (Dew) ~ girl ~
+
+عربی  ~ علياء (Aliya) ~ العالية (High) ~ girl ~
+
+عربی  ~ هبة (Hiba) ~ الهبة (Gift) ~ girl ~
+
+عربی  ~ نوران (Nouran) ~ النورانية (Brightness) ~ girl ~
+
+عربی  ~ يارين (Yareen) ~ السكينة (Serenity) ~ girl ~
+
+عربی  ~ زوزان (Zouzan) ~ الورود (Flowers) ~ girl ~
+
+عربی  ~ رمش (Rimsh) ~ الرمش (Eyelash) ~ girl ~
+
+عربی  ~ ملاك (Malak) ~ الملاك (Angel) ~ girl ~
+
+عربی  ~ حنين (Haneen) ~ الشوق (Longing) ~ girl ~
+
+عربی  ~ جودي (Judy) ~ الكرم (Generosity) ~ girl ~
+
+عربی  ~ سلما (Salma) ~ السلامة (Safety) ~ girl ~
+
+عربی  ~ رينا (Reena) ~ الرنين (Melody) ~ girl ~
+
+عربی  ~ لارا (Lara) ~ الحرية (Freedom) ~ girl ~
+
+عربی  ~ آيات (Ayat) ~ الآيات (Verses) ~ girl ~
+
+عربی  ~ ليندا (Linda) ~ الرقة (Tenderness) ~ girl ~
+
+عربی  ~ نجود (Najwa) ~ النجاح (Success) ~ girl ~
+
+عربی  ~ سنابل (Sanabil) ~ السنابل (Grains) ~ girl ~
+
+عربی  ~ سها (Sahaa) ~ السهو (Lapse) ~ girl ~
+
+عربی  ~ ورد (Ward) ~ الوردة (Rose) ~ girl ~
+
+عربی  ~ لمى (Lama) ~ اللمعة (Glow) ~ girl ~
+
+عربی  ~ زينب (Zainab) ~ الشجرة الجميلة (Beautiful tree) ~ girl ~
+
+عربی  ~ سارة (Sara) ~ السعادة (Happiness) ~ girl ~
+
+عربی  ~ مروة (Marwa) ~ الحجر الأسود (The Black Stone) ~ girl ~
+
+عربی  ~ ليان (Layan) ~ اللطف (Gentleness) ~ girl ~
+
+عربی  ~ رقية (Raqia) ~ الشرف (Honour) ~ girl ~
+
+عربی  ~ نورا (Nora) ~ الضوء (Light) ~ girl ~
+
+عربی  ~ نهى (Neha) ~ النهي (Prohibition) ~ girl ~
+
+عربی  ~ طيف (Taif) ~ الألوان (Colors) ~ girl ~
+
+عربی  ~ سلمى (Salma) ~ السلامة (Safety) ~ girl ~
+
+عربی  ~ هند (Hind) ~ الأناضول (Indian Subcontinent) ~ girl ~
+
+عربی  ~ شذى (Shatha) ~ العطر (Fragrance) ~ girl ~
+
+عربی  ~ لارا (Lara) ~ الحرية (Freedom) ~ girl ~
+
+عربی  ~ رونا (Rona) ~ البكاء (Crying) ~ girl ~
+
+عربی  ~ آمنة (Amina) ~ الأمانة (Honesty) ~ girl ~
+
+عربی  ~ ديما (Dima) ~ الدوام (Consistency) ~ girl ~
+
+عربی  ~ رنيم (Raneem) ~ الهمس (Whisper) ~ girl ~
+
+عربی  ~ سماح (Samaah) ~ المغفرة (Forgiveness) ~ girl ~
+
+عربی  ~ هديل (Hadeel) ~ الحمام (Pigeon's cooing) ~ girl ~
+
+عربی  ~ سندس (Sundus) ~ الحرير (Silk) ~ girl ~
+
+عربی  ~ لميس (Lamees) ~ اللمس (Touch) ~ girl ~
+
+عربی  ~ ندى (Nada) ~ الندى (Dew) ~ girl ~
+
+عربی  ~ غدير (Ghadeer) ~ البحيرة (Lake) ~ girl ~
+
+عربی  ~ صبا (Saba) ~ الصباح (Morning) ~ girl ~
+
+عربی  ~ ليلى (Layla) ~ الليل (Night) ~ girl ~
+
+عربی  ~ زينة (Zeina) ~ الجمال (Beauty) ~ girl ~
+
+عربی  ~ لمى (Lama) ~ الأنوثة (Femininity) ~ girl ~
+
+عربی  ~ ميس (Meis) ~ السمرة (Dark-skinned) ~ girl ~
+
+عربی  ~ سجى (Saja) ~ الهدوء (Serenity) ~ girl ~
+
+عربی  ~ جنى (Janna) ~ الحديقة (Garden) ~ girl ~
+
+عربی  ~ سوسن (Sawsan) ~ الزنبق (Lily) ~ girl ~
+
+عربی  ~ مروى (Marwa) ~ الرملة الجافة (Dry sandy area) ~ girl ~
+
+عربی  ~ غزل (Ghazal) ~ الحب (Love) ~ girl ~
+
+عربی  ~ مريم (Maryam) ~ البحر (Sea) ~ girl ~
+
+عربی  ~ طيبة (Tayyiba) ~ الخير (Goodness) ~ girl ~
+
+عربی  ~ نورهان (Nourhan) ~ النور الساطع (Shining light) ~ girl ~
+
+عربی  ~ هبة (Hiba) ~ الهبة (Gift) ~ girl ~
+
+عربی  ~ ريما (Rima) ~ الغزال (Gazelle) ~ girl ~
+
+عربی  ~ رحمة (Rahma) ~ الرحمة (Mercy) ~ girl ~
+
+عربی  ~ غادة (Ghada) ~ الصباح (Morning) ~ girl ~
+
+عربی  ~ رغد (Raghad) ~ الرغد (Delight) ~ girl ~
+
+عربی  ~ نادية (Nadia) ~ المنيعة (Resilient) ~ girl ~
+
+عربی  ~ مرام (Maram) ~ الرغبة (Desire) ~ girl ~
+
+عربی  ~ يارا (Yara) ~ السهولة (Ease) ~ girl ~
+
+عربی  ~ هالة (Hala) ~ الهالة (Aura) ~ girl ~
+
+عربی  ~ رندا (Randa) ~ الرقة (Tenderness) ~ girl ~
+
+عربی  ~ جود (Joud) ~ الكرم (Generosity) ~ girl ~
+
+عربی  ~ صفاء (Safaa) ~ الصفاء (Purity) ~ girl ~
+
+عربی  ~ رهف (Rahaf) ~ النقاء (Serenity) ~ girl ~
+
+عربی  ~ نهال (Nehal) ~ الجدول المائي (Water channel) ~ girl ~
+
+عربی  ~ رواء (Rawa) ~ الرواء (Satiety) ~ girl ~
+
+عربی  ~ آية (Aya) ~ الآية (Sign, verse) ~ girl ~
+
+عربی  ~ زهرة (Zahra) ~ الزهرة (Flower) ~ girl ~
+
+عربی  ~ لمياء (Lumia) ~ اللمعة (Radiance) ~ girl ~
+
+عربی  ~ سمية (Samia) ~ السمو (Elevation) ~ girl ~
+
+عربی  ~ هدى (Huda) ~ الهداية (Guidance) ~ girl ~
+
+عربی  ~ ندى (Nada) ~ الندى (Dew) ~ girl ~
+
+عربی  ~ لمى (Lama) ~ اللمس (Touch) ~ girl ~
+
+عربی  ~ ياسمين (Yasmin) ~ الياسمين (Jasmine) ~ girl ~
+
+عربی  ~ مها (Maha) ~ الغزال (Gazelle) ~ girl ~
+
+عربی  ~ سهى (Suhaila) ~ النجوم (Stars) ~ girl ~
+
+عربی  ~ روز (Roz) ~ الوردة (Rose) ~ girl ~
+
+عربی  ~ لما (Lama) ~ الليل (Night) ~ girl ~
+
+عربی  ~ هديل (Hadeel) ~ الهديل (Cooing) ~ girl ~
+
+عربی  ~ نوراه (Norah) ~ النور (Light) ~ girl ~
+
+عربی  ~ سارة (Sarah) ~ السعادة (Happiness) ~ girl ~
+
+عربی  ~ جنى (Janna) ~ الجنة (Paradise) ~ girl ~
+
+عربی  ~ نوران (Nouran) ~ النورانية (Brightness) ~ girl ~
+
+عربی  ~ هالة (Hala) ~ الهالة (Halo) ~ girl ~
+
+عربی  ~ مروى (Marwa) ~ الرملة الجافة (Dry sandy area) ~ girl ~
+
+عربی  ~ سما (Sama) ~ السماء (Sky) ~ girl ~
+
+عربی  ~ رنيم (Raneem) ~ الهمس (Whisper) ~ girl ~
+
+عربی  ~ غيداء (Ghaida) ~ الغيداء (Graceful) ~ girl ~
+
+عربی  ~ روان (Rowan) ~ الأشجار (Trees) ~ girl ~
+
+عربی  ~ ندى (Nadia) ~ الندى (Dew) ~ girl ~
+
+عربی  ~ لين (Layan) ~ الرقة (Gentleness) ~ girl ~
+
+عربی  ~ زهراء (Zahraa) ~ الزهراء (Bright, shining) ~ girl ~
+
+عربی  ~ هند (Hind) ~ الهند (India) ~ girl ~
+
+عربی  ~ روزان (Rozan) ~ الورود (Flowers) ~ girl ~
+
+عربی  ~ سوزان (Suzan) ~ الياسمين (Jasmine) ~ girl ~
+
+عربی  ~ مريم (Maryam) ~ البحر (Sea) ~ girl ~
+
+عربی  ~ لبنى (Lubna) ~ اللبن (Milk) ~ girl ~
+
+عربی  ~ نجلاء (Najla) ~ النجلاء (Radiance) ~ girl ~
+
+عربی  ~ غزل (Ghazal) ~ الغزال (Gazelle) ~ girl ~
+
+عربی  ~ ديانا (Dayana) ~ الصيد (Hunt) ~ girl ~
+
+عربی  ~ نورية (Nouria) ~ النور (Light) ~ girl ~
+
+عربی  ~ رويدة (Rawida) ~ الهدوء (Calmness) ~ girl ~
+
+عربی  ~ صباح (Sabah) ~ الصباح (Morning) ~ girl ~
+
+عربی  ~ زهر (Zahr) ~ الزهرة (Blossom) ~ girl ~
+
+عربی  ~ نوره (Nurah) ~ النور (Light) ~ girl ~
+
+عربی  ~ سمر (Samar) ~ السمر (Brownish) ~ girl ~
+
+عربی  ~ رنا (Rana) ~ الغزلان (Deer) ~ girl ~
+
+عربی  ~ ملاك (Malak) ~ الملاك (Angel) ~ girl ~
+
+عربی  ~ نسمة (Nisma) ~ النسمات (Breeze) ~ girl ~
+
+عربی  ~ مرام (Maram) ~ الحلم (Dream) ~ girl ~
+
+عربی  ~ ليلى (Layla) ~ الليل (Night) ~ girl ~
+
+عربی  ~ ندى (Nada) ~ الندى (Dew) ~ girl ~
+
+عربی  ~ رقية (Raqia) ~ الشفاء (Healing) ~ girl ~
+
+عربی  ~ روزا (Rosa) ~ الوردة (Rose) ~ girl ~
+
+عربی  ~ زينة (Zeina) ~ الجمال (Beauty) ~ girl ~
+
+عربی  ~ ربى (Ruba) ~ الربيع (Spring) ~ girl ~
