@@ -6207,3 +6207,603 @@ english ~ Peyton ~ Noble ~ girl ~
 عربی  ~ زينة (Zeina) ~ الجمال (Beauty) ~ girl ~
 
 عربی  ~ ربى (Ruba) ~ الربيع (Spring) ~ girl ~
+
+Turkish ~ Ahmet ~ Yüksek övgü (High praise) ~ boy ~
+
+Turkish ~ Ali ~ Yüce, yükselmiş (Noble, elevated) ~ boy ~
+
+Turkish ~ Arda ~ Yüce, göze çarpan (Noble, remarkable) ~ boy ~
+
+Turkish ~ Arif ~ Bilgili, akıllı (Knowledgeable, intelligent) ~ boy ~
+
+Turkish ~ Ayaz ~ Buz, serin esinti (Frost, cool breeze) ~ boy ~
+
+Turkish ~ Aydın ~ Aydınlanmış, parlak (Enlightened, bright) ~ boy ~
+
+Turkish ~ Ayhan ~ Ayın yansıması (Reflection of the moon) ~ boy ~
+
+Turkish ~ Aykut ~ Ayın kanı (Blood of the moon) ~ boy ~
+
+Turkish ~ Ayman ~ Salih, kutlu (Virtuous, blessed) ~ boy ~
+
+Turkish ~ Aziz ~ Saygıdeğer, değerli (Respected, valuable) ~ boy ~
+
+Turkish ~ Baran ~ Yağmur, sağanak (Rain, downpour) ~ boy ~
+
+Turkish ~ Barış ~ Barış (Peace) ~ boy ~
+
+Turkish ~ Batuhan ~ Tanrıların hükümdarı (Ruler of the gods) ~ boy ~
+
+Turkish ~ Bedirhan ~ Dolunay kralı (King of the full moon) ~ boy ~
+
+Turkish ~ Berk ~ Sağlam, güçlü (Strong, powerful) ~ boy ~
+
+Turkish ~ Berke ~ Sağlam, güçlü (Strong, powerful) ~ boy ~
+
+Turkish ~ Bilal ~ Su, nem (Water, moisture) ~ boy ~
+
+Turkish ~ Burak ~ Şimşek, yıldırım (Lightning, thunder) ~ boy ~
+
+Turkish ~ Can ~ Can, ruh (Life, soul) ~ boy ~
+
+Turkish ~ Cem ~ Toplanma, toplantı (Gathering, assembly) ~ boy ~
+
+Turkish ~ Cihan ~ Dünya, evren (World, universe) ~ boy ~
+
+Turkish ~ Demir ~ Demir (Iron) ~ boy ~
+
+Turkish ~ Deniz ~ Deniz (Sea) ~ boy ~
+
+Turkish ~ Doruk ~ Doruk (Summit, peak) ~ boy ~
+
+Turkish ~ Efe ~ Cesur, yiğit (Brave, courageous) ~ boy ~
+
+Turkish ~ Emir ~ Emir (Command, order) ~ boy ~
+
+Turkish ~ Emre ~ Arkadaş, dost (Friend, companion) ~ boy ~
+
+Turkish ~ Enes ~ Dostça kişi (Friendly person) ~ boy ~
+
+Turkish ~ Erdem ~ Erdem (Virtue) ~ boy ~
+
+Turkish ~ Eren ~ Aziz, kutsal kişi (Beloved, sacred person) ~ boy ~
+
+Turkish ~ Erol ~ Kahraman, yiğit (Hero, brave) ~ boy ~
+
+Turkish ~ Eray ~ Soylu ay (Noble moon) ~ boy ~
+
+Turkish ~ Erman ~ İnsan, insanlık (Human, humanity) ~ boy ~
+
+Turkish ~ Ertan ~ Güçlü, dayanıklı (Strong, resilient) ~ boy ~
+
+Turkish ~ Ertuğrul ~ Aydınlık savaşçı (Enlightened warrior) ~ boy ~
+
+Turkish ~ Eser ~ Eser (Work, creation) ~ boy ~
+
+Turkish ~ Evren ~ Evren (Universe) ~ boy ~
+
+Turkish ~ Fırat ~ Fırat (Euphrates) ~ boy ~
+
+Turkish ~ Gökhan ~ Gökhan (Sky ruler) ~ boy ~
+
+Turkish ~ Görkem ~ Görkem (Splendor) ~ boy ~
+
+Turkish ~ Güven ~ Güven (Trust) ~ boy ~
+
+Turkish ~ Hakan ~ Hakan (Emperor) ~ boy ~
+
+Turkish ~ Halil ~ Halil (Close friend) ~ boy ~
+
+Turkish ~ Hasan ~ Hasan (Handsome) ~ boy ~
+
+Turkish ~ Haydar ~ Haydar (Lion) ~ boy ~
+
+Turkish ~ Hüseyin ~ Hüseyin (Good, beautiful) ~ boy ~
+
+Turkish ~ İbrahim ~ İbrahim (Father of many) ~ boy ~
+
+Turkish ~ İlyas ~ İlyas (Elijah) ~ boy ~
+
+Turkish ~ İsmail ~ İsmail (God will hear) ~ boy ~
+
+Turkish ~ Kadir ~ Kadir (Powerful, capable) ~ boy ~
+
+Turkish ~ Kağan ~ Kağan (King, ruler) ~ boy ~
+
+Turkish ~ Kaya ~ Kaya (Rock) ~ boy ~
+
+Turkish ~ Kerem ~ Kerem (Generosity, kindness) ~ boy ~
+
+Turkish ~ Kıvanç ~ Kıvanç (Joy) ~ boy ~
+
+Turkish ~ Levent ~ Levent (Valiant, courageous) ~ boy ~
+
+Turkish ~ Mahir ~ Mahir (Skillful, talented) ~ boy ~
+
+Turkish ~ Mehmet ~ Mehmet (Praiseworthy) ~ boy ~
+
+Turkish ~ Mert ~ Mert (Brave, courageous) ~ boy ~
+
+Turkish ~ Muhammed ~ Muhammed (Praised, praiseworthy) ~ boy ~
+
+Turkish ~ Mustafa ~ Mustafa (Chosen, preferred) ~ boy ~
+
+Turkish ~ Nihat ~ Nihat (Open-minded, broad-minded) ~ boy ~
+
+Turkish ~ Nuri ~ Nuri (Radiant, luminous) ~ boy ~
+
+Turkish ~ Oğuz ~ Oğuz (Brave, strong) ~ boy ~
+
+Turkish ~ Onur ~ Onur (Honor) ~ boy ~
+
+Turkish ~ Orhan ~ Orhan (Young, youthful) ~ boy ~
+
+Turkish ~ Osman ~ Osman (Expected, hoped for) ~ boy ~
+
+Turkish ~ Ömer ~ Ömer (Long-lived, great) ~ boy ~
+
+Turkish ~ Önder ~ Önder (Leader, guide) ~ boy ~
+
+Turkish ~ Özgür ~ Özgür (Free, independent) ~ boy ~
+
+Turkish ~ Emirhan ~ Emirhan (Trustworthy leader) ~ boy ~
+
+Turkish ~ Serkan ~ Serkan (Beautiful leader) ~ boy ~
+
+Turkish ~ Alperen ~ Alperen (Brave warrior) ~ boy ~
+
+Turkish ~ Erkan ~ Erkan (Order of the army) ~ boy ~
+
+Turkish ~ Selçuk ~ Selçuk (Good archer) ~ boy ~
+
+Turkish ~ Serdar ~ Serdar (Army leader) ~ boy ~
+
+Turkish ~ Umut ~ Umut (Hope) ~ boy ~
+
+Turkish ~ Uğur ~ Uğur (Good luck) ~ boy ~
+
+Turkish ~ Volkan ~ Volkan (Volcano) ~ boy ~
+
+Turkish ~ Yasin ~ Yasin (Life) ~ boy ~
+
+Turkish ~ Yusuf ~ Yusuf (God has increased) ~ boy ~
+
+Turkish ~ Zeki ~ Zeki (Intelligent, clever) ~ boy ~
+
+Turkish ~ Zafer ~ Zafer (Victory) ~ boy ~
+
+Turkish ~ Barışkan ~ Barışkan (Peaceful soul) ~ boy ~
+
+Turkish ~ Cemal ~ Cemal (Beauty) ~ boy ~
+
+Turkish ~ Denizhan ~ Denizhan (Ruler of the sea) ~ boy ~
+
+Turkish ~ Ege ~ Ege (Aegean) ~ boy ~
+
+Turkish ~ Egehan ~ Egehan (Lord of the Aegean) ~ boy ~
+
+Turkish ~ Emrehan ~ Emrehan (Trustworthy leader) ~ boy ~
+
+Turkish ~ Erenay ~ Erenay (Holy moon) ~ boy ~
+
+Turkish ~ Fırat ~ Fırat (Euphrates) ~ boy ~
+
+Turkish ~ Gökay ~ Gökay (Sky moon) ~ boy ~
+
+Turkish ~ Güney ~ Güney (South) ~ boy ~
+
+Turkish ~ Gürol ~ Gürol (Brave heart) ~ boy ~
+
+Turkish ~ Haldun ~ Haldun (One who has the power to govern) ~ boy ~
+
+Turkish ~ Halit ~ Halit (Eternal) ~ boy ~
+
+Turkish ~ Hamza ~ Hamza (Lion) ~ boy ~
+
+Turkish ~ Harun ~ Harun (Aaron) ~ boy ~
+
+Turkish ~ İlker ~ İlker (Firstborn) ~ boy ~
+
+Turkish ~ İlyas ~ İlyas (Elijah) ~ boy ~
+
+Turkish ~ İsmail ~ İsmail (God will hear) ~ boy ~
+
+Turkish ~ Canberk ~ Canberk ~ Strong soul ~ boy ~
+
+Turkish ~ Çağan ~ Çağan ~ Majestic, powerful ~ boy ~
+
+Turkish ~ Çınar ~ Çınar ~ Plane tree ~ boy ~
+
+Turkish ~ Deniz ~ Deniz ~ Sea ~ boy ~
+
+Turkish ~ Doruk ~ Doruk ~ Summit, peak ~ boy ~
+
+Turkish ~ Ege ~ Ege ~ Aegean ~ boy ~
+
+Turkish ~ Egehan ~ Egehan ~ Lord of the Aegean ~ boy ~
+
+Turkish ~ Emirhan ~ Emirhan ~ Trustworthy leader ~ boy ~
+
+Turkish ~ Erenay ~ Erenay ~ Holy moon ~ boy ~
+
+Turkish ~ Fırat ~ Fırat ~ Euphrates ~ boy ~
+
+Turkish ~ Gökay ~ Gökay ~ Sky moon ~ boy ~
+
+Turkish ~ Güney ~ Güney ~ South ~ boy ~
+
+Turkish ~ Gürol ~ Gürol ~ Brave heart ~ boy ~
+
+Turkish ~ Haldun ~ Haldun ~ Powerful ruler ~ boy ~
+
+Turkish ~ Halit ~ Halit ~ Eternal ~ boy ~
+
+Turkish ~ Hamza ~ Hamza ~ Lion ~ boy ~
+
+Turkish ~ Harun ~ Harun ~ Aaron ~ boy ~
+
+Turkish ~ İlker ~ İlker ~ Firstborn ~ boy ~
+
+Turkish ~ İlyas ~ İlyas ~ Elijah ~ boy ~
+
+Turkish ~ İsmail ~ İsmail ~ God will hear ~ boy ~
+
+Turkish ~ Kadir ~ Kadir ~ Capable, powerful ~ boy ~
+
+Turkish ~ Kağan ~ Kağan ~ King, ruler ~ boy ~
+
+Turkish ~ Kaya ~ Kaya ~ Rock ~ boy ~
+
+Turkish ~ Kerem ~ Kerem ~ Generosity, kindness ~ boy ~
+
+Turkish ~ Kıvanç ~ Kıvanç ~ Joy ~ boy ~
+
+Turkish ~ Levent ~ Levent ~ Brave, valiant ~ boy ~
+
+Turkish ~ Mahir ~ Mahir ~ Skillful, talented ~ boy ~
+
+Turkish ~ Mehmet ~ Mehmet ~ Praiseworthy ~ boy ~
+
+Turkish ~ Mert ~ Mert ~ Brave, courageous ~ boy ~
+
+Turkish ~ Muhammed ~ Muhammed ~ Praiseworthy ~ boy ~
+
+Turkish ~ Mustafa ~ Mustafa ~ Chosen, preferred ~ boy ~
+
+Turkish ~ Nihat ~ Nihat ~ Open-minded, broad-minded ~ boy ~
+
+Turkish ~ Nuri ~ Nuri ~ Radiant, luminous ~ boy ~
+
+Turkish ~ Oğuz ~ Oğuz ~ Brave, strong ~ boy ~
+
+Turkish ~ Onur ~ Onur ~ Honor ~ boy ~
+
+Turkish ~ Orhan ~ Orhan ~ Young, youthful ~ boy ~
+
+Turkish ~ Osman ~ Osman ~ Expected, hoped for ~ boy ~
+
+Turkish ~ Ömer ~ Ömer ~ Long-lived, great ~ boy ~
+
+Turkish ~ Önder ~ Önder ~ Leader, guide ~ boy ~
+
+Turkish ~ Özgür ~ Özgür ~ Free, independent ~ boy ~
+
+Turkish ~ Emirhan ~ Emirhan ~ Trustworthy leader ~ boy ~
+
+Turkish ~ Serkan ~ Serkan ~ Beautiful leader ~ boy ~
+
+Turkish ~ Alperen ~ Alperen ~ Brave warrior ~ boy ~
+
+Turkish ~ Erkan ~ Erkan ~ Order of the army ~ boy ~
+
+Turkish ~ Selçuk ~ Selçuk ~ Good archer ~ boy ~
+
+Turkish ~ Serdar ~ Serdar ~ Army leader ~ boy ~
+
+Turkish ~ Umut ~ Umut ~ Hope ~ boy ~
+
+Turkish ~ Uğur ~ Uğur ~ Good luck ~ boy ~
+
+Turkish ~ Volkan ~ Volkan ~ Volcano ~ boy ~
+
+Turkish ~ Yasin ~ Yasin ~ Life ~ boy ~
+
+Turkish ~ Yusuf ~ Yusuf ~ God has increased ~ boy ~
+
+Turkish ~ Zeki ~ Zeki ~ Intelligent, clever ~ boy ~
+
+Turkish ~ Zafer ~ Zafer ~ Victory ~ boy ~
+
+Turkish ~ Barışkan ~ Barışkan ~ Peaceful soul ~ boy ~
+
+Turkish ~ Cemal ~ Cemal ~ Beauty ~ boy ~
+
+Turkish ~ Denizhan ~ Denizhan ~ Ruler of the sea ~ boy ~
+
+Turkish ~ Ege ~ Ege ~ Aegean ~ boy ~
+
+Turkish ~ Egehan ~ Egehan ~ Lord of the Aegean ~ boy ~
+
+Turkish ~ Emrehan ~ Emrehan ~ Trustworthy leader ~ boy ~
+
+Turkish ~ Erenay ~ Erenay ~ Holy moon ~ boy ~
+
+Turkish ~ Fırat ~ Fırat ~ Euphrates ~ boy ~
+
+Turkish ~ Gökay ~ Gökay ~ Sky moon ~ boy ~
+
+Turkish ~ Güney ~ Güney ~ South ~ boy ~
+
+Turkish ~ Gürol ~ Gürol ~ Brave heart ~ boy ~
+
+Turkish ~ Haldun ~ Haldun ~ Powerful ruler ~ boy ~
+
+Turkish ~ Halit ~ Halit ~ Eternal ~ boy ~
+
+Turkish ~ Hamza ~ Hamza ~ Lion ~ boy ~
+
+Turkish ~ Harun ~ Harun ~ Aaron ~ boy ~
+
+Turkish ~ İlker ~ İlker ~ Firstborn ~ boy ~
+
+Turkish ~ İlyas ~ İlyas ~ Elijah ~ boy ~
+
+Turkish ~ İsmail ~ İsmail ~ God will hear ~ boy ~
+
+Turkish ~ İbrahim ~ İbrahim ~ Father of many ~ boy ~
+
+Turkish ~ İhsan ~ İhsan ~ Benevolence ~ boy ~
+
+Turkish ~ İlhan ~ İlhan ~ Ruler, leader ~ boy ~
+
+Turkish ~ İlkay ~ İlkay ~ First moon ~ boy ~
+
+Turkish ~ İlknur ~ İlknur ~ First light ~ boy ~
+
+Turkish ~ İlter ~ İlter ~ Brave lion ~ boy ~
+
+Turkish ~ İrfan ~ İrfan ~ Knowledge, wisdom ~ boy ~
+
+Turkish ~ Kamil ~ Kamil ~ Perfect, complete ~ boy ~
+
+Turkish ~ Kemal ~ Kemal ~ Perfection ~ boy ~
+
+Turkish ~ Kerim ~ Kerim ~ Generous, kind ~ boy ~
+
+Turkish ~ Kürşat ~ Kürşat ~ Fearless, brave ~ boy ~
+
+Turkish ~ Mahmut ~ Mahmut ~ Praiseworthy, commendable ~ boy ~
+
+Turkish ~ Mazlum ~ Mazlum ~ Oppressed, innocent ~ boy ~
+
+Turkish ~ Metin ~ Metin ~ Strong, sturdy ~ boy ~
+
+Turkish ~ Mirza ~ Mirza ~ Noble, prince ~ boy ~
+
+Turkish ~ Muammer ~ Muammer ~ Flourishing, prosperous ~ boy ~
+
+Turkish ~ Murat ~ Murat ~ Desired, wished for ~ boy ~
+
+Turkish ~ Muzaffer ~ Muzaffer ~ Victorious, triumphant ~ boy ~
+
+Turkish ~ Naif ~ Naif ~ Naive, innocent ~ boy ~
+
+Turkish ~ Necati ~ Necati ~ Precious, valuable ~ boy ~
+
+Turkish ~ Nurettin ~ Nurettin ~ Light of faith ~ boy ~
+
+Turkish ~ Özkan ~ Özkan ~ Pure soul ~ boy ~
+
+Turkish ~ Raşit ~ Raşit ~ Righteous, guided ~ boy ~
+
+Turkish ~ Reşat ~ Reşat ~ Precious, valuable ~ boy ~
+
+Turkish ~ Savaş ~ Savaş ~ Battle, war ~ boy ~
+
+Turkish ~ Selim ~ Selim ~ Peaceful, serene ~ boy ~
+
+Turkish ~ Şükrü ~ Şükrü ~ Grateful, thankful ~ boy ~
+
+Turkish ~ Tarık ~ Tarık ~ Morning star ~ boy ~
+
+Turkish ~ Yaşar ~ Yaşar ~ Long-lived, prosperous ~ boy ~
+
+Turkish ~ Adem ~ İnsan (Man, human) ~ boy ~
+
+Turkish ~ Ahmetcan ~ Sevgili Ahmet (Beloved Ahmet) ~ boy ~
+
+Turkish ~ Akın ~ Cesur, kahraman (Brave, heroic) ~ boy ~
+
+Turkish ~ Alihan ~ Yüce lider (Exalted leader) ~ boy ~
+
+Turkish ~ Altan ~ Kızıl şafak (Red dawn) ~ boy ~
+
+Turkish ~ Aras ~ Aslan, cesur (Lion, brave) ~ boy ~
+
+Turkish ~ Ardağan ~ Güçlü ateş (Mighty fire) ~ boy ~
+
+Turkish ~ Aslan ~ Aslan (Lion) ~ boy ~
+
+Turkish ~ Aybars ~ Ay panteri (Moon panther) ~ boy ~
+
+Turkish ~ Aydınhan ~ Aydınlanmış yönetici (Enlightened ruler) ~ boy ~
+
+Turkish ~ Ayhan ~ Ayın yöneticisi (Moon's ruler) ~ boy ~
+
+Turkish ~ Aykan ~ Ay kanı (Moonblood) ~ boy ~
+
+Turkish ~ Aytekin ~ Ay tacı (Moon crown) ~ boy ~
+
+Turkish ~ Azad ~ Özgür, bağımsız (Free, independent) ~ boy ~
+
+Turkish ~ Baha ~ Fiyat, değer (Price, value) ~ boy ~
+
+Turkish ~ Baturay ~ Kahraman ay (Heroic moon) ~ boy ~
+
+Turkish ~ Batu ~ Sağlam, güçlü (Firm, strong) ~ boy ~
+
+Turkish ~ Berkan ~ Sağlam ruh (Solid soul) ~ boy ~
+
+Turkish ~ Beyazıt ~ Parlak ay (Bright moon) ~ boy ~
+
+Turkish ~ Canberk ~ Güçlü ruh (Strong soul) ~ boy ~
+
+Turkish ~ Cankut ~ Cesur ruh (Brave soul) ~ boy ~
+
+Turkish ~ Cemil ~ Yakışıklı, güzel (Handsome, beautiful) ~ boy ~
+
+Turkish ~ Cenk ~ Savaş, mücadele (Battle, fight) ~ boy ~
+
+Turkish ~ Cihanbey ~ Dünyanın hükümdarı (Ruler of the world) ~ boy ~
+
+Turkish ~ Çetin ~ Güçlü, zorlu (Strong, tough) ~ boy ~
+
+Turkish ~ Demirhan ~ Iron ruler ~ boy ~
+
+Turkish ~ Doğan ~ Yükselen güneş (Rising sun) ~ boy ~
+
+Turkish ~ Efe ~ Genç kahraman (Young hero) ~ boy ~
+
+Turkish ~ Emircan ~ Emir veren (One who gives orders) ~ boy ~
+
+Turkish ~ Emirhan ~ Güvenilir lider (Trustworthy leader) ~ boy ~
+
+Turkish ~ Emre ~ Dost, arkadaş (Friend) ~ boy ~
+
+Turkish ~ Enes ~ Dost (Friend) ~ boy ~
+
+Turkish ~ Eray ~ Uyuyan ay (Sleeping moon) ~ boy ~
+
+Turkish ~ Eren ~ Kutsal, aziz (Holy, sacred) ~ boy ~
+
+Turkish ~ Erhan ~ Ormanın hükümdarı (Ruler of the forest) ~ boy ~
+
+Turkish ~ Erol ~ Gizli kahraman (Secret hero) ~ boy ~
+
+Turkish ~ Ertan ~ Dirençli kaynak (Resilient source) ~ boy ~
+
+Turkish ~ Fırat ~ Bereketli ırmak (Fertile river) ~ boy ~
+
+Turkish ~ Gürkan ~ Kuvvetli kükreyiş (Mighty roar) ~ boy ~
+
+Turkish ~ Hakan ~ Hükümdar (Ruler) ~ boy ~
+
+Turkish ~ Haluk ~ Merhametli (Merciful) ~ boy ~
+
+Turkish ~ Harun ~ Musa'nın kardeşi Harun (Aaron, brother of Moses) ~ boy ~
+
+Turkish ~ Haydar ~ Aslan (Lion) ~ boy ~
+
+Turkish ~ İbrahim ~ Birçok babanın babası (Father of many) ~ boy ~
+
+Turkish ~ İhsan ~ İyilik, lütuf (Goodness, grace) ~ boy ~
+
+Turkish ~ İlhan ~ Hükümdar, lider (Ruler, leader) ~ boy ~
+
+Turkish ~ İlker ~ İlk doğan (Firstborn) ~ boy ~
+
+Turkish ~ İlyas ~ İlyas (Elijah) ~ boy ~
+
+Turkish ~ İsmail ~ Tanrı işitecek (God will hear) ~ boy ~
+
+Turkish ~ İzzet ~ Şeref, itibar (Honor, prestige) ~ boy ~
+
+Turkish ~ Kaan ~ Büyük hükümdar (Great ruler) ~ boy ~
+
+Turkish ~ Kağan ~ Kral, hükümdar (King, ruler) ~ boy ~
+
+Turkish ~ Kaya ~ Kaya (Rock) ~ boy ~
+
+Turkish ~ Kemal ~ Mükemmellik (Perfection) ~ boy ~
+
+Turkish ~ Kerem ~ Cömertlik, iyilik (Generosity, kindness) ~ boy ~
+
+Turkish ~ Kıvanç ~ Sevinç, mutluluk (Joy, happiness) ~ boy ~
+
+Turkish ~ Levent ~ Cesur, kahraman (Brave, courageous) ~ boy ~
+
+Turkish ~ Mahir ~ Usta, yetenekli (Skilled, talented) ~ boy ~
+
+Turkish ~ Mehmet ~ Övgüye değer (Praiseworthy) ~ boy ~
+
+Turkish ~ Mert ~ Cesur, kahraman (Brave, heroic) ~ boy ~
+
+Turkish ~ Muhammed ~ Övgüye değer (Praiseworthy) ~ boy ~
+
+Turkish ~ Mustafa ~ Seçilmiş, tercih edilen (Chosen, preferred) ~ boy ~
+
+Turkish ~ Nihat ~ Açık fikirli, geniş görüşlü (Open-minded, broad-minded) ~ boy ~
+
+Turkish ~ Nuri ~ Işık saçan, parlak (Radiant, luminous) ~ boy ~
+
+Turkish ~ Oğuz ~ Cesur, güçlü (Brave, strong) ~ boy ~
+
+Turkish ~ Onur ~ Onur (Honor) ~ boy ~
+
+Turkish ~ Orhan ~ Genç, gençlik (Young, youthful) ~ boy ~
+
+Turkish ~ Osman ~ Beklenen, umut edilen (Expected, hoped for) ~ boy ~
+
+Turkish ~ Ömer ~ Uzun ömürlü, büyük (Long-lived, great) ~ boy ~
+
+Turkish ~ Önder ~ Lider, rehber (Leader, guide) ~ boy ~
+
+Turkish ~ Özgür ~ Özgür (Free, independent) ~ boy ~
+
+Turkish ~ Raşit ~ Doğru, doğru yolda olan (Righteous, guided) ~ boy ~
+
+Turkish ~ Reşat ~ Kıymetli, değerli (Precious, valuable) ~ boy ~
+
+Turkish ~ Savaş ~ Savaş (Battle, war) ~ boy ~
+
+Turkish ~ Selim ~ Huzurlu, sakin (Peaceful, calm) ~ boy ~
+
+Turkish ~ Serkan ~ Güzel lider (Beautiful leader) ~ boy ~
+
+Turkish ~ Serdar ~ Ordu lideri (Army leader) ~ boy ~
+
+Turkish ~ Umut ~ Umut (Hope) ~ boy ~
+
+Turkish ~ Uğur ~ İyi şans (Good luck) ~ boy ~
+
+Turkish ~ Volkan ~ Volkan (Volcano) ~ boy ~
+
+Turkish ~ Yasin ~ Yaşam (Life) ~ boy ~
+
+Turkish ~ Yusuf ~ Tanrı artırdı (God has increased) ~ boy ~
+
+Turkish ~ Zeki ~ Zeki (Intelligent, clever) ~ boy ~
+
+Turkish ~ Zafer ~ Zafer (Victory) ~ boy ~
+
+Turkish ~ Barışkan ~ Barışçıl ruh (Peaceful soul) ~ boy ~
+
+Turkish ~ Cemal ~ Cemal (Beauty) ~ boy ~
+
+Turkish ~ Denizhan ~ Denizlerin hükümdarı (Ruler of the seas) ~ boy ~
+
+Turkish ~ Ege ~ Ege (Aegean) ~ boy ~
+
+Turkish ~ Egehan ~ Egehan (Lord of the Aegean) ~ boy ~
+
+Turkish ~ Emrehan ~ Güvenilir lider (Trustworthy leader) ~ boy ~
+
+Turkish ~ Serkan ~ Güzel lider (Beautiful leader) ~ boy ~
+
+Turkish ~ Alperen ~ Cesur savaşçı (Brave warrior) ~ boy ~
+
+Turkish ~ Erkan ~ Ordu düzeni (Order of the army) ~ boy ~
+
+Turkish ~ Selçuk ~ İyi okçu (Good archer) ~ boy ~
+
+Turkish ~ Serdar ~ Ordu lideri (Army leader) ~ boy ~
+
+Turkish ~ Umut ~ Umut (Hope) ~ boy ~
+
+Turkish ~ Uğur ~ İyi şans (Good luck) ~ boy ~
+
+Turkish ~ Yağız ~ Güçlü, yakışıklı (Strong, handsome) ~ boy ~
+
+Turkish ~ Yaman ~ Tehlikeli, cesur (Dangerous, brave) ~ boy ~
+
+Turkish ~ Yiğit ~ Cesur, kahraman (Brave, heroic) ~ boy ~
