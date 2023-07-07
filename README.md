@@ -197,7 +197,7 @@ By visiting this page on our website: https://github.com/PJSoftCo/BabyNames
 
 فارسی  ~ نیمان (Niman)~دلاور، برجسته (Brave, prominent) ~ boy ~
 
-فارسی  ~ بهادر (Behrad)~شجاع و دلاور (Brave and valiant) ~ boy ~
+فارسی  ~ بهادر (Bahador)~شجاع و دلاور (Brave and valiant) ~ boy ~
 
 فارسی  ~ پیمان (Peyman)~قرارداد، وعده (Agreement, promise) ~ boy ~
 
