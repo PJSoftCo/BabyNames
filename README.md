@@ -335,7 +335,7 @@ By visiting this page on our website: https://github.com/PJSoftCo/BabyNames
 
 فارسی  ~ برومند (Beroumand) ~ مرد جاهل (Ignorant man) ~ boy ~ 
 
-فارسی  ~ پارسا (Parisa) ~ نیکوکار و شریف (Good and noble) ~ boy ~ 
+فارسی  ~ پارسا (Parsa) ~ نیکوکار و شریف (Good and noble) ~ boy ~ 
 
 فارسی  ~ پاکش (Paksh) ~ پاک و بی‌عیب (Pure and faultless) ~ boy ~ 
 
@@ -3236,6 +3236,8 @@ By visiting this page on our website: https://github.com/PJSoftCo/BabyNames
 فارسی  ~ بهستان  ~ نیک بنیاد، نام پسر اردشیر سوم پادشاه هخامنشی  ~ girl ~
 
 فارسی  ~ بینا  ~ بصیر، بیننده، آگاه، هوشیار  ~ girl ~
+
+فارسی  ~ پریسا  ~ مانند پری، زیبا  ~ girl ~
 
 فارسی  ~ خوش رو  ~ خوش صورت، خوشگل، (مجاز) خندان، خنده رو، (مجاز) مهربان  ~ girl ~
 
