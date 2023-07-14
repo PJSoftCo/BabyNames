@@ -251,6 +251,8 @@ By visiting this page on our website: https://github.com/PJSoftCo/BabyNames
 
 فارسی  ~ عرفان (Erfan) ~ دانش و عرفان (Knowledge and mysticism) ~ boy ~ 
 
+فارسی  ~ تیام (Tiyam) ~ چشمانم، عزیز و گرامی، در گویش لرستان به معنی چشمانم، بسیار عزیز و دوست داشتنی ~ boy ~ 
+
 فارسی  ~ فرامرز (Faramarz) ~ شجاع و برجسته (Brave and prominent) ~ boy ~ 
 
 فارسی  ~ کیومرث (Keyumars) ~ شاهزاده (Prince) ~ boy ~ 
