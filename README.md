@@ -155,6 +155,8 @@ By visiting this page on our website: https://github.com/PJSoftCo/BabyNames
 
 فارسی  ~ سپهر (Sepehr)~آسمان (Sky) ~ boy ~
 
+ارسی  ~ لیام (liam)~محافظ (guardian) ~ boy ~
+
 فارسی  ~ کاوه (Kaveh)~رهبر شجاع (Brave leader) ~ boy ~
 
 فارسی  ~ کوروش (Koroush)~فرمانروای خوب (Good ruler) ~ boy ~
