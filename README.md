@@ -1,3 +1,5 @@
+[**IOS**](https://apps.apple.com/app/id6450554396) - [**Android**](https://play.google.com/store/apps/details?id=com.pjsoftco.BabyName)
+
 Privacy Policy of Baby Name-اسم یاب
 
 Privacy Policy Effective date: June 29, 2023
