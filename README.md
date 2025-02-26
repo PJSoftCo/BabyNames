@@ -29,7 +29,7 @@ By visiting this page on our website: https://github.com/PJSoftCo/BabyNames
 --------------------------------------------------------------------------------------------------------------------------------------
 [Terms and Conditions](https://app.termly.io/document/terms-of-use-for-website/538e4813-8796-44c1-8821-93a52ef5c2b7)
 
-GSAR:50:true:
+GSAR:30:false:
 
 فارسی ~ ابتسام(Ebtisam) ~  لبخند (Smile)  ~ boy ~ 
 
